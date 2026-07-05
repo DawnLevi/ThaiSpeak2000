@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>ThaiSpeak 2000</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="window" id="app">
+
+    <!-- Title bar -->
+    <div class="title-bar">
+      <span class="title-text">🗣️ ThaiSpeak 2000 - Pronunciation Trainer</span>
+      <div class="title-buttons">
+        <button class="title-btn">_</button>
+        <button class="title-btn">□</button>
+        <button class="title-btn">x</button>
+      </div>
+    </div>
+
+    <!-- Menu bar -->
+    <div class="menu-bar">
+      <span>File</span><span>Practice</span><span>Options</span><span>Help</span>
+    </div>
+
+    <div class="window-body">
+
+      <fieldset class="group-box">
+        <legend>Target Phrase</legend>
+        <div class="thai-display" id="thaiText">สวัสดีครับ</div>
+        <div class="romanization" id="romanText">sawatdee khrap</div>
+        <div class="meaning" id="meaningText">"Hello" (male speaker)</div>
+      </fieldset>
+
+      <div class="button-row">
+        <button class="win-btn" id="newWordBtn">New Phrase</button>
+        <button class="win-btn record-btn" id="recordBtn">● Record</button>
+      </div>
+
+      <fieldset class="group-box">
+        <legend>Recognition Result</legend>
+        <div class="status-bar-field" id="statusText">Press "Record" and say the phrase above.</div>
+        <div class="heard-text" id="heardText">&nbsp;</div>
+      </fieldset>
+
+      <fieldset class="group-box score-box">
+        <legend>Score</legend>
+        <div class="score-track">
+          <div class="score-fill" id="scoreFill"></div>
+        </div>
+        <div class="score-number" id="scoreNumber">0%</div>
+      </fieldset>
+
+      <div class="persona-area" id="personaArea">
+        <img id="personaGif" src="" alt="" class="persona-gif">
+        <div class="persona-caption" id="personaCaption"></div>
+      </div>
+
+    </div>
+
+    <div class="status-bar">
+      <div class="status-bar-field" id="footerStatus">Ready</div>
+      <div class="status-bar-field">ThaiSpeak 2000 v1.0</div>
+    </div>
+
+  </div>
+
+<script src="script.js"></script>
+</body>
+</html>
