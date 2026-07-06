@@ -3685,19 +3685,9 @@
     "meaning": "\"Hello\" (male speaker)"
   },
   {
-    "thai": "สวัสดีค่ะ",
-    "roman": "sawatdee kha",
-    "meaning": "\"Hello\" (female speaker)"
-  },
-  {
     "thai": "ขอบคุณครับ",
     "roman": "khop khun khrap",
     "meaning": "\"Thank you\" (male speaker)"
-  },
-  {
-    "thai": "ขอบคุณค่ะ",
-    "roman": "khop khun kha",
-    "meaning": "\"Thank you\" (female speaker)"
   },
   {
     "thai": "สบายดีไหม",
@@ -3710,11 +3700,6 @@
     "meaning": "\"I'm fine\" (male speaker)"
   },
   {
-    "thai": "สบายดีค่ะ",
-    "roman": "sabai dee kha",
-    "meaning": "\"I'm fine\" (female speaker)"
-  },
-  {
     "thai": "ไม่เป็นไร",
     "roman": "mai pen rai",
     "meaning": "\"No problem / it's okay\""
@@ -3723,11 +3708,6 @@
     "thai": "ขอโทษครับ",
     "roman": "kho thot khrap",
     "meaning": "\"Sorry / excuse me\" (male speaker)"
-  },
-  {
-    "thai": "ขอโทษค่ะ",
-    "roman": "kho thot kha",
-    "meaning": "\"Sorry / excuse me\" (female speaker)"
   },
   {
     "thai": "ยินดีที่ได้รู้จัก",
@@ -4998,5 +4978,25 @@
     "thai": "ร่มสีขาว",
     "roman": "rom see khao",
     "meaning": "\"white umbrella\""
+  },
+  {
+    "thai": "ผมชื่อ...",
+    "roman": "phom cheu...",
+    "meaning": "\"My name is...\" (male speaker)"
+  },
+  {
+    "thai": "ผมสบายดีครับ",
+    "roman": "phom sabai dee khrap",
+    "meaning": "\"I'm fine\" (male speaker)"
+  },
+  {
+    "thai": "ผมหิวครับ",
+    "roman": "phom hiu khrap",
+    "meaning": "\"I'm hungry\" (male speaker)"
+  },
+  {
+    "thai": "ผมขอโทษครับ",
+    "roman": "phom kho thot khrap",
+    "meaning": "\"I'm sorry\" (male speaker)"
   }
 ]
