@@ -30,6 +30,7 @@ const thaiTextEl = document.getElementById('thaiText');
 const romanTextEl = document.getElementById('romanText');
 const meaningTextEl = document.getElementById('meaningText');
 const recordBtn = document.getElementById('recordBtn');
+const listenBtn = document.getElementById('listenBtn');
 const newWordBtn = document.getElementById('newWordBtn');
 const statusText = document.getElementById('statusText');
 const heardText = document.getElementById('heardText');
@@ -41,6 +42,7 @@ const personaCaption = document.getElementById('personaCaption');
 const footerStatus = document.getElementById('footerStatus');
 
 function loadPhrase(phrase) {
+  if (window.speechSynthesis) window.speechSynthesis.cancel();
   currentPhrase = phrase;
   thaiTextEl.textContent = phrase.thai;
   romanTextEl.textContent = phrase.roman;
@@ -100,6 +102,64 @@ function showPersonaFeedback(score) {
     personaCaption.textContent = 'Angry Lady says: "Try again, dear." 😤';
   }
 }
+
+// ---- Text-to-Speech: "Listen" button (native pronunciation example) ----
+let cachedVoices = [];
+
+function loadVoices() {
+  cachedVoices = window.speechSynthesis ? window.speechSynthesis.getVoices() : [];
+}
+
+if (window.speechSynthesis) {
+  loadVoices();
+  // Voice lists load asynchronously in some browsers
+  window.speechSynthesis.onvoiceschanged = loadVoices;
+}
+
+function getThaiVoice() {
+  return cachedVoices.find(v => v.lang === 'th-TH') ||
+         cachedVoices.find(v => v.lang && v.lang.startsWith('th')) ||
+         null;
+}
+
+function speakCurrentPhrase() {
+  if (!window.speechSynthesis) {
+    statusText.textContent = 'Text-to-speech is not supported in this browser.';
+    return;
+  }
+  if (!currentPhrase) return;
+
+  window.speechSynthesis.cancel(); // stop anything already playing
+
+  const utterance = new SpeechSynthesisUtterance(currentPhrase.thai);
+  utterance.lang = 'th-TH';
+  utterance.rate = 0.85; // slightly slower for learners
+
+  const thaiVoice = getThaiVoice();
+  if (thaiVoice) {
+    utterance.voice = thaiVoice;
+  } else {
+    statusText.textContent = 'No Thai voice found on this device — playing with default voice.';
+  }
+
+  utterance.onstart = () => {
+    listenBtn.classList.add('speaking');
+    footerStatus.textContent = 'Playing pronunciation...';
+  };
+  utterance.onend = () => {
+    listenBtn.classList.remove('speaking');
+    footerStatus.textContent = 'Ready';
+  };
+  utterance.onerror = () => {
+    listenBtn.classList.remove('speaking');
+    footerStatus.textContent = 'Ready';
+    statusText.textContent = 'Could not play audio. Try again.';
+  };
+
+  window.speechSynthesis.speak(utterance);
+}
+
+listenBtn.addEventListener('click', speakCurrentPhrase);
 
 // ---- Web Speech API setup ----
 const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;

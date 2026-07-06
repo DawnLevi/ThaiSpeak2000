@@ -179,6 +179,15 @@ body {
   color: #800000;
 }
 
+.listen-btn {
+  font-weight: bold;
+  color: #000080;
+}
+
+.listen-btn.speaking {
+  background: #b3d1ff;
+}
+
 .record-btn.recording {
   background: #ff8080;
   animation: pulse 1s infinite;
