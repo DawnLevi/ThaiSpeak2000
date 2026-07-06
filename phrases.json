@@ -555,9 +555,9 @@
     "meaning": "\"Monday\""
   },
   {
-    "thai": "วันนี้เป็นวันจันทร์",
-    "roman": "wan-nee pen wan jan",
-    "meaning": "\"Today is Monday\""
+    "thai": "วันนี้เป็นวันจันทร์ครับ",
+    "roman": "wan-nee pen wan jan khrap",
+    "meaning": "\"Today is Monday\" (male speaker)"
   },
   {
     "thai": "วันอังคาร",
@@ -565,9 +565,9 @@
     "meaning": "\"Tuesday\""
   },
   {
-    "thai": "วันนี้เป็นวันอังคาร",
-    "roman": "wan-nee pen wan angkhan",
-    "meaning": "\"Today is Tuesday\""
+    "thai": "วันนี้เป็นวันอังคารครับ",
+    "roman": "wan-nee pen wan angkhan khrap",
+    "meaning": "\"Today is Tuesday\" (male speaker)"
   },
   {
     "thai": "วันพุธ",
@@ -575,9 +575,9 @@
     "meaning": "\"Wednesday\""
   },
   {
-    "thai": "วันนี้เป็นวันพุธ",
-    "roman": "wan-nee pen wan phut",
-    "meaning": "\"Today is Wednesday\""
+    "thai": "วันนี้เป็นวันพุธครับ",
+    "roman": "wan-nee pen wan phut khrap",
+    "meaning": "\"Today is Wednesday\" (male speaker)"
   },
   {
     "thai": "วันพฤหัสบดี",
@@ -585,9 +585,9 @@
     "meaning": "\"Thursday\""
   },
   {
-    "thai": "วันนี้เป็นวันพฤหัสบดี",
-    "roman": "wan-nee pen wan pharuehatsabodee",
-    "meaning": "\"Today is Thursday\""
+    "thai": "วันนี้เป็นวันพฤหัสบดีครับ",
+    "roman": "wan-nee pen wan pharuehatsabodee khrap",
+    "meaning": "\"Today is Thursday\" (male speaker)"
   },
   {
     "thai": "วันศุกร์",
@@ -595,9 +595,9 @@
     "meaning": "\"Friday\""
   },
   {
-    "thai": "วันนี้เป็นวันศุกร์",
-    "roman": "wan-nee pen wan suk",
-    "meaning": "\"Today is Friday\""
+    "thai": "วันนี้เป็นวันศุกร์ครับ",
+    "roman": "wan-nee pen wan suk khrap",
+    "meaning": "\"Today is Friday\" (male speaker)"
   },
   {
     "thai": "วันเสาร์",
@@ -605,9 +605,9 @@
     "meaning": "\"Saturday\""
   },
   {
-    "thai": "วันนี้เป็นวันเสาร์",
-    "roman": "wan-nee pen wan sao",
-    "meaning": "\"Today is Saturday\""
+    "thai": "วันนี้เป็นวันเสาร์ครับ",
+    "roman": "wan-nee pen wan sao khrap",
+    "meaning": "\"Today is Saturday\" (male speaker)"
   },
   {
     "thai": "วันอาทิตย์",
@@ -615,9 +615,9 @@
     "meaning": "\"Sunday\""
   },
   {
-    "thai": "วันนี้เป็นวันอาทิตย์",
-    "roman": "wan-nee pen wan athit",
-    "meaning": "\"Today is Sunday\""
+    "thai": "วันนี้เป็นวันอาทิตย์ครับ",
+    "roman": "wan-nee pen wan athit khrap",
+    "meaning": "\"Today is Sunday\" (male speaker)"
   },
   {
     "thai": "มกราคม",
@@ -760,9 +760,9 @@
     "meaning": "\"father\""
   },
   {
-    "thai": "นี่คือพ่อของฉัน",
-    "roman": "nee keu phor khong chan",
-    "meaning": "\"This is my father\""
+    "thai": "นี่คือพ่อของผมครับ",
+    "roman": "nee keu phor khong phom khrap",
+    "meaning": "\"This is my father\" (male speaker)"
   },
   {
     "thai": "แม่",
@@ -770,9 +770,9 @@
     "meaning": "\"mother\""
   },
   {
-    "thai": "นี่คือแม่ของฉัน",
-    "roman": "nee keu mae khong chan",
-    "meaning": "\"This is my mother\""
+    "thai": "นี่คือแม่ของผมครับ",
+    "roman": "nee keu mae khong phom khrap",
+    "meaning": "\"This is my mother\" (male speaker)"
   },
   {
     "thai": "พี่ชาย",
@@ -780,9 +780,9 @@
     "meaning": "\"older brother\""
   },
   {
-    "thai": "นี่คือพี่ชายของฉัน",
-    "roman": "nee keu phee chai khong chan",
-    "meaning": "\"This is my older brother\""
+    "thai": "นี่คือพี่ชายของผมครับ",
+    "roman": "nee keu phee chai khong phom khrap",
+    "meaning": "\"This is my older brother\" (male speaker)"
   },
   {
     "thai": "น้องชาย",
@@ -790,9 +790,9 @@
     "meaning": "\"younger brother\""
   },
   {
-    "thai": "นี่คือน้องชายของฉัน",
-    "roman": "nee keu nong chai khong chan",
-    "meaning": "\"This is my younger brother\""
+    "thai": "นี่คือน้องชายของผมครับ",
+    "roman": "nee keu nong chai khong phom khrap",
+    "meaning": "\"This is my younger brother\" (male speaker)"
   },
   {
     "thai": "พี่สาว",
@@ -800,9 +800,9 @@
     "meaning": "\"older sister\""
   },
   {
-    "thai": "นี่คือพี่สาวของฉัน",
-    "roman": "nee keu phee sao khong chan",
-    "meaning": "\"This is my older sister\""
+    "thai": "นี่คือพี่สาวของผมครับ",
+    "roman": "nee keu phee sao khong phom khrap",
+    "meaning": "\"This is my older sister\" (male speaker)"
   },
   {
     "thai": "น้องสาว",
@@ -810,9 +810,9 @@
     "meaning": "\"younger sister\""
   },
   {
-    "thai": "นี่คือน้องสาวของฉัน",
-    "roman": "nee keu nong sao khong chan",
-    "meaning": "\"This is my younger sister\""
+    "thai": "นี่คือน้องสาวของผมครับ",
+    "roman": "nee keu nong sao khong phom khrap",
+    "meaning": "\"This is my younger sister\" (male speaker)"
   },
   {
     "thai": "ปู่",
@@ -820,9 +820,9 @@
     "meaning": "\"paternal grandfather\""
   },
   {
-    "thai": "นี่คือปู่ของฉัน",
-    "roman": "nee keu poo khong chan",
-    "meaning": "\"This is my paternal grandfather\""
+    "thai": "นี่คือปู่ของผมครับ",
+    "roman": "nee keu poo khong phom khrap",
+    "meaning": "\"This is my paternal grandfather\" (male speaker)"
   },
   {
     "thai": "ย่า",
@@ -830,9 +830,9 @@
     "meaning": "\"paternal grandmother\""
   },
   {
-    "thai": "นี่คือย่าของฉัน",
-    "roman": "nee keu ya khong chan",
-    "meaning": "\"This is my paternal grandmother\""
+    "thai": "นี่คือย่าของผมครับ",
+    "roman": "nee keu ya khong phom khrap",
+    "meaning": "\"This is my paternal grandmother\" (male speaker)"
   },
   {
     "thai": "ตา",
@@ -840,9 +840,9 @@
     "meaning": "\"maternal grandfather\""
   },
   {
-    "thai": "นี่คือตาของฉัน",
-    "roman": "nee keu ta khong chan",
-    "meaning": "\"This is my maternal grandfather\""
+    "thai": "นี่คือตาของผมครับ",
+    "roman": "nee keu ta khong phom khrap",
+    "meaning": "\"This is my maternal grandfather\" (male speaker)"
   },
   {
     "thai": "ยาย",
@@ -850,9 +850,9 @@
     "meaning": "\"maternal grandmother\""
   },
   {
-    "thai": "นี่คือยายของฉัน",
-    "roman": "nee keu yai khong chan",
-    "meaning": "\"This is my maternal grandmother\""
+    "thai": "นี่คือยายของผมครับ",
+    "roman": "nee keu yai khong phom khrap",
+    "meaning": "\"This is my maternal grandmother\" (male speaker)"
   },
   {
     "thai": "ลุง",
@@ -860,9 +860,9 @@
     "meaning": "\"uncle (older)\""
   },
   {
-    "thai": "นี่คือลุงของฉัน",
-    "roman": "nee keu lung khong chan",
-    "meaning": "\"This is my uncle (older)\""
+    "thai": "นี่คือลุงของผมครับ",
+    "roman": "nee keu lung khong phom khrap",
+    "meaning": "\"This is my uncle (older)\" (male speaker)"
   },
   {
     "thai": "ป้า",
@@ -870,9 +870,9 @@
     "meaning": "\"aunt (older)\""
   },
   {
-    "thai": "นี่คือป้าของฉัน",
-    "roman": "nee keu pa khong chan",
-    "meaning": "\"This is my aunt (older)\""
+    "thai": "นี่คือป้าของผมครับ",
+    "roman": "nee keu pa khong phom khrap",
+    "meaning": "\"This is my aunt (older)\" (male speaker)"
   },
   {
     "thai": "น้า",
@@ -880,9 +880,9 @@
     "meaning": "\"aunt/uncle (mother's younger sibling)\""
   },
   {
-    "thai": "นี่คือน้าของฉัน",
-    "roman": "nee keu na khong chan",
-    "meaning": "\"This is my aunt/uncle (mother's younger sibling)\""
+    "thai": "นี่คือน้าของผมครับ",
+    "roman": "nee keu na khong phom khrap",
+    "meaning": "\"This is my aunt/uncle (mother's younger sibling)\" (male speaker)"
   },
   {
     "thai": "อา",
@@ -890,9 +890,9 @@
     "meaning": "\"aunt/uncle (father's younger sibling)\""
   },
   {
-    "thai": "นี่คืออาของฉัน",
-    "roman": "nee keu a khong chan",
-    "meaning": "\"This is my aunt/uncle (father's younger sibling)\""
+    "thai": "นี่คืออาของผมครับ",
+    "roman": "nee keu a khong phom khrap",
+    "meaning": "\"This is my aunt/uncle (father's younger sibling)\" (male speaker)"
   },
   {
     "thai": "ลูก",
@@ -900,9 +900,9 @@
     "meaning": "\"child\""
   },
   {
-    "thai": "นี่คือลูกของฉัน",
-    "roman": "nee keu look khong chan",
-    "meaning": "\"This is my child\""
+    "thai": "นี่คือลูกของผมครับ",
+    "roman": "nee keu look khong phom khrap",
+    "meaning": "\"This is my child\" (male speaker)"
   },
   {
     "thai": "ลูกชาย",
@@ -910,9 +910,9 @@
     "meaning": "\"son\""
   },
   {
-    "thai": "นี่คือลูกชายของฉัน",
-    "roman": "nee keu look chai khong chan",
-    "meaning": "\"This is my son\""
+    "thai": "นี่คือลูกชายของผมครับ",
+    "roman": "nee keu look chai khong phom khrap",
+    "meaning": "\"This is my son\" (male speaker)"
   },
   {
     "thai": "ลูกสาว",
@@ -920,9 +920,9 @@
     "meaning": "\"daughter\""
   },
   {
-    "thai": "นี่คือลูกสาวของฉัน",
-    "roman": "nee keu look sao khong chan",
-    "meaning": "\"This is my daughter\""
+    "thai": "นี่คือลูกสาวของผมครับ",
+    "roman": "nee keu look sao khong phom khrap",
+    "meaning": "\"This is my daughter\" (male speaker)"
   },
   {
     "thai": "สามี",
@@ -930,9 +930,9 @@
     "meaning": "\"husband\""
   },
   {
-    "thai": "นี่คือสามีของฉัน",
-    "roman": "nee keu samee khong chan",
-    "meaning": "\"This is my husband\""
+    "thai": "นี่คือสามีของผมครับ",
+    "roman": "nee keu samee khong phom khrap",
+    "meaning": "\"This is my husband\" (male speaker)"
   },
   {
     "thai": "ภรรยา",
@@ -940,9 +940,9 @@
     "meaning": "\"wife\""
   },
   {
-    "thai": "นี่คือภรรยาของฉัน",
-    "roman": "nee keu phanraya khong chan",
-    "meaning": "\"This is my wife\""
+    "thai": "นี่คือภรรยาของผมครับ",
+    "roman": "nee keu phanraya khong phom khrap",
+    "meaning": "\"This is my wife\" (male speaker)"
   },
   {
     "thai": "หลาน",
@@ -950,9 +950,9 @@
     "meaning": "\"nephew/niece/grandchild\""
   },
   {
-    "thai": "นี่คือหลานของฉัน",
-    "roman": "nee keu lan khong chan",
-    "meaning": "\"This is my nephew/niece/grandchild\""
+    "thai": "นี่คือหลานของผมครับ",
+    "roman": "nee keu lan khong phom khrap",
+    "meaning": "\"This is my nephew/niece/grandchild\" (male speaker)"
   },
   {
     "thai": "หัว",
@@ -960,19 +960,19 @@
     "meaning": "\"head\""
   },
   {
-    "thai": "หัวของฉันเจ็บ",
-    "roman": "hua khong chan jep",
-    "meaning": "\"My head hurts\""
+    "thai": "หัวของผมเจ็บครับ",
+    "roman": "hua khong phom jep khrap",
+    "meaning": "\"My head hurts\" (male speaker)"
   },
   {
     "thai": "ผม",
-    "roman": "phom",
+    "roman": "phom (hair)",
     "meaning": "\"hair\""
   },
   {
-    "thai": "ผมของฉันเจ็บ",
-    "roman": "phom khong chan jep",
-    "meaning": "\"My hair hurts\""
+    "thai": "ผมของผมเจ็บครับ",
+    "roman": "phom (hair) khong phom jep khrap",
+    "meaning": "\"My hair hurts\" (male speaker)"
   },
   {
     "thai": "หน้า",
@@ -980,14 +980,14 @@
     "meaning": "\"face\""
   },
   {
-    "thai": "หน้าของฉันเจ็บ",
-    "roman": "na khong chan jep",
-    "meaning": "\"My face hurts\""
+    "thai": "หน้าของผมเจ็บครับ",
+    "roman": "na khong phom jep khrap",
+    "meaning": "\"My face hurts\" (male speaker)"
   },
   {
-    "thai": "ตาของฉันเจ็บ",
-    "roman": "ta khong chan jep",
-    "meaning": "\"My eye hurts\""
+    "thai": "ตาของผมเจ็บครับ",
+    "roman": "ta khong phom jep khrap",
+    "meaning": "\"My eye hurts\" (male speaker)"
   },
   {
     "thai": "หู",
@@ -995,9 +995,9 @@
     "meaning": "\"ear\""
   },
   {
-    "thai": "หูของฉันเจ็บ",
-    "roman": "hoo khong chan jep",
-    "meaning": "\"My ear hurts\""
+    "thai": "หูของผมเจ็บครับ",
+    "roman": "hoo khong phom jep khrap",
+    "meaning": "\"My ear hurts\" (male speaker)"
   },
   {
     "thai": "จมูก",
@@ -1005,9 +1005,9 @@
     "meaning": "\"nose\""
   },
   {
-    "thai": "จมูกของฉันเจ็บ",
-    "roman": "jamook khong chan jep",
-    "meaning": "\"My nose hurts\""
+    "thai": "จมูกของผมเจ็บครับ",
+    "roman": "jamook khong phom jep khrap",
+    "meaning": "\"My nose hurts\" (male speaker)"
   },
   {
     "thai": "ปาก",
@@ -1015,9 +1015,9 @@
     "meaning": "\"mouth\""
   },
   {
-    "thai": "ปากของฉันเจ็บ",
-    "roman": "pak khong chan jep",
-    "meaning": "\"My mouth hurts\""
+    "thai": "ปากของผมเจ็บครับ",
+    "roman": "pak khong phom jep khrap",
+    "meaning": "\"My mouth hurts\" (male speaker)"
   },
   {
     "thai": "ฟัน",
@@ -1025,9 +1025,9 @@
     "meaning": "\"teeth\""
   },
   {
-    "thai": "ฟันของฉันเจ็บ",
-    "roman": "fan khong chan jep",
-    "meaning": "\"My teeth hurts\""
+    "thai": "ฟันของผมเจ็บครับ",
+    "roman": "fan khong phom jep khrap",
+    "meaning": "\"My teeth hurts\" (male speaker)"
   },
   {
     "thai": "คอ",
@@ -1035,9 +1035,9 @@
     "meaning": "\"neck\""
   },
   {
-    "thai": "คอของฉันเจ็บ",
-    "roman": "khor khong chan jep",
-    "meaning": "\"My neck hurts\""
+    "thai": "คอของผมเจ็บครับ",
+    "roman": "khor khong phom jep khrap",
+    "meaning": "\"My neck hurts\" (male speaker)"
   },
   {
     "thai": "ไหล่",
@@ -1045,9 +1045,9 @@
     "meaning": "\"shoulder\""
   },
   {
-    "thai": "ไหล่ของฉันเจ็บ",
-    "roman": "lai khong chan jep",
-    "meaning": "\"My shoulder hurts\""
+    "thai": "ไหล่ของผมเจ็บครับ",
+    "roman": "lai khong phom jep khrap",
+    "meaning": "\"My shoulder hurts\" (male speaker)"
   },
   {
     "thai": "แขน",
@@ -1055,9 +1055,9 @@
     "meaning": "\"arm\""
   },
   {
-    "thai": "แขนของฉันเจ็บ",
-    "roman": "khaen khong chan jep",
-    "meaning": "\"My arm hurts\""
+    "thai": "แขนของผมเจ็บครับ",
+    "roman": "khaen khong phom jep khrap",
+    "meaning": "\"My arm hurts\" (male speaker)"
   },
   {
     "thai": "มือ",
@@ -1065,9 +1065,9 @@
     "meaning": "\"hand\""
   },
   {
-    "thai": "มือของฉันเจ็บ",
-    "roman": "meu khong chan jep",
-    "meaning": "\"My hand hurts\""
+    "thai": "มือของผมเจ็บครับ",
+    "roman": "meu khong phom jep khrap",
+    "meaning": "\"My hand hurts\" (male speaker)"
   },
   {
     "thai": "นิ้ว",
@@ -1075,9 +1075,9 @@
     "meaning": "\"finger\""
   },
   {
-    "thai": "นิ้วของฉันเจ็บ",
-    "roman": "nio khong chan jep",
-    "meaning": "\"My finger hurts\""
+    "thai": "นิ้วของผมเจ็บครับ",
+    "roman": "nio khong phom jep khrap",
+    "meaning": "\"My finger hurts\" (male speaker)"
   },
   {
     "thai": "ท้อง",
@@ -1085,9 +1085,9 @@
     "meaning": "\"stomach\""
   },
   {
-    "thai": "ท้องของฉันเจ็บ",
-    "roman": "thong khong chan jep",
-    "meaning": "\"My stomach hurts\""
+    "thai": "ท้องของผมเจ็บครับ",
+    "roman": "thong khong phom jep khrap",
+    "meaning": "\"My stomach hurts\" (male speaker)"
   },
   {
     "thai": "หลัง",
@@ -1095,9 +1095,9 @@
     "meaning": "\"back\""
   },
   {
-    "thai": "หลังของฉันเจ็บ",
-    "roman": "lang khong chan jep",
-    "meaning": "\"My back hurts\""
+    "thai": "หลังของผมเจ็บครับ",
+    "roman": "lang khong phom jep khrap",
+    "meaning": "\"My back hurts\" (male speaker)"
   },
   {
     "thai": "ขา",
@@ -1105,9 +1105,9 @@
     "meaning": "\"leg\""
   },
   {
-    "thai": "ขาของฉันเจ็บ",
-    "roman": "kha khong chan jep",
-    "meaning": "\"My leg hurts\""
+    "thai": "ขาของผมเจ็บครับ",
+    "roman": "kha khong phom jep khrap",
+    "meaning": "\"My leg hurts\" (male speaker)"
   },
   {
     "thai": "เท้า",
@@ -1115,9 +1115,9 @@
     "meaning": "\"foot\""
   },
   {
-    "thai": "เท้าของฉันเจ็บ",
-    "roman": "thao khong chan jep",
-    "meaning": "\"My foot hurts\""
+    "thai": "เท้าของผมเจ็บครับ",
+    "roman": "thao khong phom jep khrap",
+    "meaning": "\"My foot hurts\" (male speaker)"
   },
   {
     "thai": "หัวใจ",
@@ -1125,9 +1125,9 @@
     "meaning": "\"heart\""
   },
   {
-    "thai": "หัวใจของฉันเจ็บ",
-    "roman": "hua jai khong chan jep",
-    "meaning": "\"My heart hurts\""
+    "thai": "หัวใจของผมเจ็บครับ",
+    "roman": "hua jai khong phom jep khrap",
+    "meaning": "\"My heart hurts\" (male speaker)"
   },
   {
     "thai": "ผิวหนัง",
@@ -1135,9 +1135,9 @@
     "meaning": "\"skin\""
   },
   {
-    "thai": "ผิวหนังของฉันเจ็บ",
-    "roman": "phio nang khong chan jep",
-    "meaning": "\"My skin hurts\""
+    "thai": "ผิวหนังของผมเจ็บครับ",
+    "roman": "phio nang khong phom jep khrap",
+    "meaning": "\"My skin hurts\" (male speaker)"
   },
   {
     "thai": "เล็บ",
@@ -1145,9 +1145,9 @@
     "meaning": "\"nail\""
   },
   {
-    "thai": "เล็บของฉันเจ็บ",
-    "roman": "lep khong chan jep",
-    "meaning": "\"My nail hurts\""
+    "thai": "เล็บของผมเจ็บครับ",
+    "roman": "lep khong phom jep khrap",
+    "meaning": "\"My nail hurts\" (male speaker)"
   },
   {
     "thai": "หมา",
@@ -1155,9 +1155,9 @@
     "meaning": "\"dog\""
   },
   {
-    "thai": "นี่คือหมา",
-    "roman": "nee keu ma",
-    "meaning": "\"This is a dog\""
+    "thai": "นี่คือหมาครับ",
+    "roman": "nee keu ma khrap",
+    "meaning": "\"This is a dog\" (male speaker)"
   },
   {
     "thai": "แมว",
@@ -1165,9 +1165,9 @@
     "meaning": "\"cat\""
   },
   {
-    "thai": "นี่คือแมว",
-    "roman": "nee keu maeo",
-    "meaning": "\"This is a cat\""
+    "thai": "นี่คือแมวครับ",
+    "roman": "nee keu maeo khrap",
+    "meaning": "\"This is a cat\" (male speaker)"
   },
   {
     "thai": "นก",
@@ -1175,9 +1175,9 @@
     "meaning": "\"bird\""
   },
   {
-    "thai": "นี่คือนก",
-    "roman": "nee keu nok",
-    "meaning": "\"This is a bird\""
+    "thai": "นี่คือนกครับ",
+    "roman": "nee keu nok khrap",
+    "meaning": "\"This is a bird\" (male speaker)"
   },
   {
     "thai": "ปลา",
@@ -1185,9 +1185,9 @@
     "meaning": "\"fish\""
   },
   {
-    "thai": "นี่คือปลา",
-    "roman": "nee keu pla",
-    "meaning": "\"This is a fish\""
+    "thai": "นี่คือปลาครับ",
+    "roman": "nee keu pla khrap",
+    "meaning": "\"This is a fish\" (male speaker)"
   },
   {
     "thai": "ช้าง",
@@ -1195,9 +1195,9 @@
     "meaning": "\"elephant\""
   },
   {
-    "thai": "นี่คือช้าง",
-    "roman": "nee keu chang",
-    "meaning": "\"This is a elephant\""
+    "thai": "นี่คือช้างครับ",
+    "roman": "nee keu chang khrap",
+    "meaning": "\"This is an elephant\" (male speaker)"
   },
   {
     "thai": "เสือ",
@@ -1205,9 +1205,9 @@
     "meaning": "\"tiger\""
   },
   {
-    "thai": "นี่คือเสือ",
-    "roman": "nee keu seua",
-    "meaning": "\"This is a tiger\""
+    "thai": "นี่คือเสือครับ",
+    "roman": "nee keu seua khrap",
+    "meaning": "\"This is a tiger\" (male speaker)"
   },
   {
     "thai": "สิงโต",
@@ -1215,9 +1215,9 @@
     "meaning": "\"lion\""
   },
   {
-    "thai": "นี่คือสิงโต",
-    "roman": "nee keu singto",
-    "meaning": "\"This is a lion\""
+    "thai": "นี่คือสิงโตครับ",
+    "roman": "nee keu singto khrap",
+    "meaning": "\"This is a lion\" (male speaker)"
   },
   {
     "thai": "ลิง",
@@ -1225,9 +1225,9 @@
     "meaning": "\"monkey\""
   },
   {
-    "thai": "นี่คือลิง",
-    "roman": "nee keu ling",
-    "meaning": "\"This is a monkey\""
+    "thai": "นี่คือลิงครับ",
+    "roman": "nee keu ling khrap",
+    "meaning": "\"This is a monkey\" (male speaker)"
   },
   {
     "thai": "งู",
@@ -1235,9 +1235,9 @@
     "meaning": "\"snake\""
   },
   {
-    "thai": "นี่คืองู",
-    "roman": "nee keu ngoo",
-    "meaning": "\"This is a snake\""
+    "thai": "นี่คืองูครับ",
+    "roman": "nee keu ngoo khrap",
+    "meaning": "\"This is a snake\" (male speaker)"
   },
   {
     "thai": "ไก่",
@@ -1245,9 +1245,9 @@
     "meaning": "\"chicken\""
   },
   {
-    "thai": "นี่คือไก่",
-    "roman": "nee keu gai",
-    "meaning": "\"This is a chicken\""
+    "thai": "นี่คือไก่ครับ",
+    "roman": "nee keu gai khrap",
+    "meaning": "\"This is a chicken\" (male speaker)"
   },
   {
     "thai": "เป็ด",
@@ -1255,9 +1255,9 @@
     "meaning": "\"duck\""
   },
   {
-    "thai": "นี่คือเป็ด",
-    "roman": "nee keu pet",
-    "meaning": "\"This is a duck\""
+    "thai": "นี่คือเป็ดครับ",
+    "roman": "nee keu pet khrap",
+    "meaning": "\"This is a duck\" (male speaker)"
   },
   {
     "thai": "หมู",
@@ -1265,9 +1265,9 @@
     "meaning": "\"pig\""
   },
   {
-    "thai": "นี่คือหมู",
-    "roman": "nee keu moo",
-    "meaning": "\"This is a pig\""
+    "thai": "นี่คือหมูครับ",
+    "roman": "nee keu moo khrap",
+    "meaning": "\"This is a pig\" (male speaker)"
   },
   {
     "thai": "วัว",
@@ -1275,9 +1275,9 @@
     "meaning": "\"cow\""
   },
   {
-    "thai": "นี่คือวัว",
-    "roman": "nee keu wua",
-    "meaning": "\"This is a cow\""
+    "thai": "นี่คือวัวครับ",
+    "roman": "nee keu wua khrap",
+    "meaning": "\"This is a cow\" (male speaker)"
   },
   {
     "thai": "ม้า",
@@ -1285,9 +1285,9 @@
     "meaning": "\"horse\""
   },
   {
-    "thai": "นี่คือม้า",
-    "roman": "nee keu ma (horse)",
-    "meaning": "\"This is a horse\""
+    "thai": "นี่คือม้าครับ",
+    "roman": "nee keu ma (horse) khrap",
+    "meaning": "\"This is a horse\" (male speaker)"
   },
   {
     "thai": "แพะ",
@@ -1295,9 +1295,9 @@
     "meaning": "\"goat\""
   },
   {
-    "thai": "นี่คือแพะ",
-    "roman": "nee keu phae",
-    "meaning": "\"This is a goat\""
+    "thai": "นี่คือแพะครับ",
+    "roman": "nee keu phae khrap",
+    "meaning": "\"This is a goat\" (male speaker)"
   },
   {
     "thai": "กระต่าย",
@@ -1305,9 +1305,9 @@
     "meaning": "\"rabbit\""
   },
   {
-    "thai": "นี่คือกระต่าย",
-    "roman": "nee keu kratai",
-    "meaning": "\"This is a rabbit\""
+    "thai": "นี่คือกระต่ายครับ",
+    "roman": "nee keu kratai khrap",
+    "meaning": "\"This is a rabbit\" (male speaker)"
   },
   {
     "thai": "หนู",
@@ -1315,9 +1315,9 @@
     "meaning": "\"mouse\""
   },
   {
-    "thai": "นี่คือหนู",
-    "roman": "nee keu noo",
-    "meaning": "\"This is a mouse\""
+    "thai": "นี่คือหนูครับ",
+    "roman": "nee keu noo khrap",
+    "meaning": "\"This is a mouse\" (male speaker)"
   },
   {
     "thai": "ผีเสื้อ",
@@ -1325,9 +1325,9 @@
     "meaning": "\"butterfly\""
   },
   {
-    "thai": "นี่คือผีเสื้อ",
-    "roman": "nee keu phee-seua",
-    "meaning": "\"This is a butterfly\""
+    "thai": "นี่คือผีเสื้อครับ",
+    "roman": "nee keu phee-seua khrap",
+    "meaning": "\"This is a butterfly\" (male speaker)"
   },
   {
     "thai": "ผึ้ง",
@@ -1335,9 +1335,9 @@
     "meaning": "\"bee\""
   },
   {
-    "thai": "นี่คือผึ้ง",
-    "roman": "nee keu phueng",
-    "meaning": "\"This is a bee\""
+    "thai": "นี่คือผึ้งครับ",
+    "roman": "nee keu phueng khrap",
+    "meaning": "\"This is a bee\" (male speaker)"
   },
   {
     "thai": "มด",
@@ -1345,9 +1345,9 @@
     "meaning": "\"ant\""
   },
   {
-    "thai": "นี่คือมด",
-    "roman": "nee keu mot",
-    "meaning": "\"This is a ant\""
+    "thai": "นี่คือมดครับ",
+    "roman": "nee keu mot khrap",
+    "meaning": "\"This is an ant\" (male speaker)"
   },
   {
     "thai": "ข้าว",
@@ -1355,14 +1355,14 @@
     "meaning": "\"rice\""
   },
   {
-    "thai": "ฉันอยากกินข้าว",
-    "roman": "chan yak gin khao",
-    "meaning": "\"I want to eat rice\""
+    "thai": "ผมอยากกินข้าวครับ",
+    "roman": "phom yak gin khao khrap",
+    "meaning": "\"I want to eat rice\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบข้าว",
-    "roman": "chan chop khao",
-    "meaning": "\"I like rice\""
+    "thai": "ผมชอบข้าวครับ",
+    "roman": "phom chop khao khrap",
+    "meaning": "\"I like rice\" (male speaker)"
   },
   {
     "thai": "ข้าวผัด",
@@ -1370,14 +1370,14 @@
     "meaning": "\"fried rice\""
   },
   {
-    "thai": "ฉันอยากกินข้าวผัด",
-    "roman": "chan yak gin khao phat",
-    "meaning": "\"I want to eat fried rice\""
+    "thai": "ผมอยากกินข้าวผัดครับ",
+    "roman": "phom yak gin khao phat khrap",
+    "meaning": "\"I want to eat fried rice\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบข้าวผัด",
-    "roman": "chan chop khao phat",
-    "meaning": "\"I like fried rice\""
+    "thai": "ผมชอบข้าวผัดครับ",
+    "roman": "phom chop khao phat khrap",
+    "meaning": "\"I like fried rice\" (male speaker)"
   },
   {
     "thai": "ผัดไทย",
@@ -1385,14 +1385,14 @@
     "meaning": "\"pad thai\""
   },
   {
-    "thai": "ฉันอยากกินผัดไทย",
-    "roman": "chan yak gin phat thai",
-    "meaning": "\"I want to eat pad thai\""
+    "thai": "ผมอยากกินผัดไทยครับ",
+    "roman": "phom yak gin phat thai khrap",
+    "meaning": "\"I want to eat pad thai\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบผัดไทย",
-    "roman": "chan chop phat thai",
-    "meaning": "\"I like pad thai\""
+    "thai": "ผมชอบผัดไทยครับ",
+    "roman": "phom chop phat thai khrap",
+    "meaning": "\"I like pad thai\" (male speaker)"
   },
   {
     "thai": "ต้มยำกุ้ง",
@@ -1400,14 +1400,14 @@
     "meaning": "\"tom yum shrimp soup\""
   },
   {
-    "thai": "ฉันอยากกินต้มยำกุ้ง",
-    "roman": "chan yak gin tom yum goong",
-    "meaning": "\"I want to eat tom yum shrimp soup\""
+    "thai": "ผมอยากกินต้มยำกุ้งครับ",
+    "roman": "phom yak gin tom yum goong khrap",
+    "meaning": "\"I want to eat tom yum shrimp soup\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบต้มยำกุ้ง",
-    "roman": "chan chop tom yum goong",
-    "meaning": "\"I like tom yum shrimp soup\""
+    "thai": "ผมชอบต้มยำกุ้งครับ",
+    "roman": "phom chop tom yum goong khrap",
+    "meaning": "\"I like tom yum shrimp soup\" (male speaker)"
   },
   {
     "thai": "ส้มตำ",
@@ -1415,14 +1415,14 @@
     "meaning": "\"papaya salad\""
   },
   {
-    "thai": "ฉันอยากกินส้มตำ",
-    "roman": "chan yak gin som tam",
-    "meaning": "\"I want to eat papaya salad\""
+    "thai": "ผมอยากกินส้มตำครับ",
+    "roman": "phom yak gin som tam khrap",
+    "meaning": "\"I want to eat papaya salad\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบส้มตำ",
-    "roman": "chan chop som tam",
-    "meaning": "\"I like papaya salad\""
+    "thai": "ผมชอบส้มตำครับ",
+    "roman": "phom chop som tam khrap",
+    "meaning": "\"I like papaya salad\" (male speaker)"
   },
   {
     "thai": "แกงเขียวหวาน",
@@ -1430,14 +1430,14 @@
     "meaning": "\"green curry\""
   },
   {
-    "thai": "ฉันอยากกินแกงเขียวหวาน",
-    "roman": "chan yak gin gaeng khiao wan",
-    "meaning": "\"I want to eat green curry\""
+    "thai": "ผมอยากกินแกงเขียวหวานครับ",
+    "roman": "phom yak gin gaeng khiao wan khrap",
+    "meaning": "\"I want to eat green curry\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบแกงเขียวหวาน",
-    "roman": "chan chop gaeng khiao wan",
-    "meaning": "\"I like green curry\""
+    "thai": "ผมชอบแกงเขียวหวานครับ",
+    "roman": "phom chop gaeng khiao wan khrap",
+    "meaning": "\"I like green curry\" (male speaker)"
   },
   {
     "thai": "ไก่ทอด",
@@ -1445,14 +1445,14 @@
     "meaning": "\"fried chicken\""
   },
   {
-    "thai": "ฉันอยากกินไก่ทอด",
-    "roman": "chan yak gin gai thot",
-    "meaning": "\"I want to eat fried chicken\""
+    "thai": "ผมอยากกินไก่ทอดครับ",
+    "roman": "phom yak gin gai thot khrap",
+    "meaning": "\"I want to eat fried chicken\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบไก่ทอด",
-    "roman": "chan chop gai thot",
-    "meaning": "\"I like fried chicken\""
+    "thai": "ผมชอบไก่ทอดครับ",
+    "roman": "phom chop gai thot khrap",
+    "meaning": "\"I like fried chicken\" (male speaker)"
   },
   {
     "thai": "หมูปิ้ง",
@@ -1460,14 +1460,14 @@
     "meaning": "\"grilled pork\""
   },
   {
-    "thai": "ฉันอยากกินหมูปิ้ง",
-    "roman": "chan yak gin moo ping",
-    "meaning": "\"I want to eat grilled pork\""
+    "thai": "ผมอยากกินหมูปิ้งครับ",
+    "roman": "phom yak gin moo ping khrap",
+    "meaning": "\"I want to eat grilled pork\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบหมูปิ้ง",
-    "roman": "chan chop moo ping",
-    "meaning": "\"I like grilled pork\""
+    "thai": "ผมชอบหมูปิ้งครับ",
+    "roman": "phom chop moo ping khrap",
+    "meaning": "\"I like grilled pork\" (male speaker)"
   },
   {
     "thai": "ข้าวเหนียวมะม่วง",
@@ -1475,14 +1475,14 @@
     "meaning": "\"mango sticky rice\""
   },
   {
-    "thai": "ฉันอยากกินข้าวเหนียวมะม่วง",
-    "roman": "chan yak gin khao niao mamuang",
-    "meaning": "\"I want to eat mango sticky rice\""
+    "thai": "ผมอยากกินข้าวเหนียวมะม่วงครับ",
+    "roman": "phom yak gin khao niao mamuang khrap",
+    "meaning": "\"I want to eat mango sticky rice\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบข้าวเหนียวมะม่วง",
-    "roman": "chan chop khao niao mamuang",
-    "meaning": "\"I like mango sticky rice\""
+    "thai": "ผมชอบข้าวเหนียวมะม่วงครับ",
+    "roman": "phom chop khao niao mamuang khrap",
+    "meaning": "\"I like mango sticky rice\" (male speaker)"
   },
   {
     "thai": "ก๋วยเตี๋ยว",
@@ -1490,14 +1490,14 @@
     "meaning": "\"noodle soup\""
   },
   {
-    "thai": "ฉันอยากกินก๋วยเตี๋ยว",
-    "roman": "chan yak gin guay tiao",
-    "meaning": "\"I want to eat noodle soup\""
+    "thai": "ผมอยากกินก๋วยเตี๋ยวครับ",
+    "roman": "phom yak gin guay tiao khrap",
+    "meaning": "\"I want to eat noodle soup\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบก๋วยเตี๋ยว",
-    "roman": "chan chop guay tiao",
-    "meaning": "\"I like noodle soup\""
+    "thai": "ผมชอบก๋วยเตี๋ยวครับ",
+    "roman": "phom chop guay tiao khrap",
+    "meaning": "\"I like noodle soup\" (male speaker)"
   },
   {
     "thai": "ผัดกะเพรา",
@@ -1505,14 +1505,14 @@
     "meaning": "\"stir-fried basil\""
   },
   {
-    "thai": "ฉันอยากกินผัดกะเพรา",
-    "roman": "chan yak gin phat kaphrao",
-    "meaning": "\"I want to eat stir-fried basil\""
+    "thai": "ผมอยากกินผัดกะเพราครับ",
+    "roman": "phom yak gin phat kaphrao khrap",
+    "meaning": "\"I want to eat stir-fried basil\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบผัดกะเพรา",
-    "roman": "chan chop phat kaphrao",
-    "meaning": "\"I like stir-fried basil\""
+    "thai": "ผมชอบผัดกะเพราครับ",
+    "roman": "phom chop phat kaphrao khrap",
+    "meaning": "\"I like stir-fried basil\" (male speaker)"
   },
   {
     "thai": "ต้มข่าไก่",
@@ -1520,14 +1520,14 @@
     "meaning": "\"chicken coconut soup\""
   },
   {
-    "thai": "ฉันอยากกินต้มข่าไก่",
-    "roman": "chan yak gin tom kha gai",
-    "meaning": "\"I want to eat chicken coconut soup\""
+    "thai": "ผมอยากกินต้มข่าไก่ครับ",
+    "roman": "phom yak gin tom kha gai khrap",
+    "meaning": "\"I want to eat chicken coconut soup\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบต้มข่าไก่",
-    "roman": "chan chop tom kha gai",
-    "meaning": "\"I like chicken coconut soup\""
+    "thai": "ผมชอบต้มข่าไก่ครับ",
+    "roman": "phom chop tom kha gai khrap",
+    "meaning": "\"I like chicken coconut soup\" (male speaker)"
   },
   {
     "thai": "แกงมัสมั่น",
@@ -1535,14 +1535,14 @@
     "meaning": "\"massaman curry\""
   },
   {
-    "thai": "ฉันอยากกินแกงมัสมั่น",
-    "roman": "chan yak gin gaeng matsaman",
-    "meaning": "\"I want to eat massaman curry\""
+    "thai": "ผมอยากกินแกงมัสมั่นครับ",
+    "roman": "phom yak gin gaeng matsaman khrap",
+    "meaning": "\"I want to eat massaman curry\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบแกงมัสมั่น",
-    "roman": "chan chop gaeng matsaman",
-    "meaning": "\"I like massaman curry\""
+    "thai": "ผมชอบแกงมัสมั่นครับ",
+    "roman": "phom chop gaeng matsaman khrap",
+    "meaning": "\"I like massaman curry\" (male speaker)"
   },
   {
     "thai": "ยำวุ้นเส้น",
@@ -1550,14 +1550,14 @@
     "meaning": "\"glass noodle salad\""
   },
   {
-    "thai": "ฉันอยากกินยำวุ้นเส้น",
-    "roman": "chan yak gin yam wunsen",
-    "meaning": "\"I want to eat glass noodle salad\""
+    "thai": "ผมอยากกินยำวุ้นเส้นครับ",
+    "roman": "phom yak gin yam wunsen khrap",
+    "meaning": "\"I want to eat glass noodle salad\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบยำวุ้นเส้น",
-    "roman": "chan chop yam wunsen",
-    "meaning": "\"I like glass noodle salad\""
+    "thai": "ผมชอบยำวุ้นเส้นครับ",
+    "roman": "phom chop yam wunsen khrap",
+    "meaning": "\"I like glass noodle salad\" (male speaker)"
   },
   {
     "thai": "ลาบ",
@@ -1565,14 +1565,14 @@
     "meaning": "\"spicy minced meat salad\""
   },
   {
-    "thai": "ฉันอยากกินลาบ",
-    "roman": "chan yak gin larb",
-    "meaning": "\"I want to eat spicy minced meat salad\""
+    "thai": "ผมอยากกินลาบครับ",
+    "roman": "phom yak gin larb khrap",
+    "meaning": "\"I want to eat spicy minced meat salad\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบลาบ",
-    "roman": "chan chop larb",
-    "meaning": "\"I like spicy minced meat salad\""
+    "thai": "ผมชอบลาบครับ",
+    "roman": "phom chop larb khrap",
+    "meaning": "\"I like spicy minced meat salad\" (male speaker)"
   },
   {
     "thai": "น้ำพริก",
@@ -1580,14 +1580,14 @@
     "meaning": "\"chili paste\""
   },
   {
-    "thai": "ฉันอยากกินน้ำพริก",
-    "roman": "chan yak gin nam prik",
-    "meaning": "\"I want to eat chili paste\""
+    "thai": "ผมอยากกินน้ำพริกครับ",
+    "roman": "phom yak gin nam prik khrap",
+    "meaning": "\"I want to eat chili paste\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบน้ำพริก",
-    "roman": "chan chop nam prik",
-    "meaning": "\"I like chili paste\""
+    "thai": "ผมชอบน้ำพริกครับ",
+    "roman": "phom chop nam prik khrap",
+    "meaning": "\"I like chili paste\" (male speaker)"
   },
   {
     "thai": "ไข่เจียว",
@@ -1595,14 +1595,14 @@
     "meaning": "\"omelette\""
   },
   {
-    "thai": "ฉันอยากกินไข่เจียว",
-    "roman": "chan yak gin khai jiao",
-    "meaning": "\"I want to eat omelette\""
+    "thai": "ผมอยากกินไข่เจียวครับ",
+    "roman": "phom yak gin khai jiao khrap",
+    "meaning": "\"I want to eat omelette\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบไข่เจียว",
-    "roman": "chan chop khai jiao",
-    "meaning": "\"I like omelette\""
+    "thai": "ผมชอบไข่เจียวครับ",
+    "roman": "phom chop khai jiao khrap",
+    "meaning": "\"I like omelette\" (male speaker)"
   },
   {
     "thai": "ไข่ดาว",
@@ -1610,14 +1610,14 @@
     "meaning": "\"fried egg\""
   },
   {
-    "thai": "ฉันอยากกินไข่ดาว",
-    "roman": "chan yak gin khai dao",
-    "meaning": "\"I want to eat fried egg\""
+    "thai": "ผมอยากกินไข่ดาวครับ",
+    "roman": "phom yak gin khai dao khrap",
+    "meaning": "\"I want to eat fried egg\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบไข่ดาว",
-    "roman": "chan chop khai dao",
-    "meaning": "\"I like fried egg\""
+    "thai": "ผมชอบไข่ดาวครับ",
+    "roman": "phom chop khai dao khrap",
+    "meaning": "\"I like fried egg\" (male speaker)"
   },
   {
     "thai": "ปลาทอด",
@@ -1625,14 +1625,14 @@
     "meaning": "\"fried fish\""
   },
   {
-    "thai": "ฉันอยากกินปลาทอด",
-    "roman": "chan yak gin pla thot",
-    "meaning": "\"I want to eat fried fish\""
+    "thai": "ผมอยากกินปลาทอดครับ",
+    "roman": "phom yak gin pla thot khrap",
+    "meaning": "\"I want to eat fried fish\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบปลาทอด",
-    "roman": "chan chop pla thot",
-    "meaning": "\"I like fried fish\""
+    "thai": "ผมชอบปลาทอดครับ",
+    "roman": "phom chop pla thot khrap",
+    "meaning": "\"I like fried fish\" (male speaker)"
   },
   {
     "thai": "กุ้งเผา",
@@ -1640,14 +1640,14 @@
     "meaning": "\"grilled shrimp\""
   },
   {
-    "thai": "ฉันอยากกินกุ้งเผา",
-    "roman": "chan yak gin goong phao",
-    "meaning": "\"I want to eat grilled shrimp\""
+    "thai": "ผมอยากกินกุ้งเผาครับ",
+    "roman": "phom yak gin goong phao khrap",
+    "meaning": "\"I want to eat grilled shrimp\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบกุ้งเผา",
-    "roman": "chan chop goong phao",
-    "meaning": "\"I like grilled shrimp\""
+    "thai": "ผมชอบกุ้งเผาครับ",
+    "roman": "phom chop goong phao khrap",
+    "meaning": "\"I like grilled shrimp\" (male speaker)"
   },
   {
     "thai": "หอยทอด",
@@ -1655,14 +1655,14 @@
     "meaning": "\"oyster omelette\""
   },
   {
-    "thai": "ฉันอยากกินหอยทอด",
-    "roman": "chan yak gin hoi thot",
-    "meaning": "\"I want to eat oyster omelette\""
+    "thai": "ผมอยากกินหอยทอดครับ",
+    "roman": "phom yak gin hoi thot khrap",
+    "meaning": "\"I want to eat oyster omelette\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบหอยทอด",
-    "roman": "chan chop hoi thot",
-    "meaning": "\"I like oyster omelette\""
+    "thai": "ผมชอบหอยทอดครับ",
+    "roman": "phom chop hoi thot khrap",
+    "meaning": "\"I like oyster omelette\" (male speaker)"
   },
   {
     "thai": "ขนมปัง",
@@ -1670,14 +1670,14 @@
     "meaning": "\"bread\""
   },
   {
-    "thai": "ฉันอยากกินขนมปัง",
-    "roman": "chan yak gin khanom pang",
-    "meaning": "\"I want to eat bread\""
+    "thai": "ผมอยากกินขนมปังครับ",
+    "roman": "phom yak gin khanom pang khrap",
+    "meaning": "\"I want to eat bread\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบขนมปัง",
-    "roman": "chan chop khanom pang",
-    "meaning": "\"I like bread\""
+    "thai": "ผมชอบขนมปังครับ",
+    "roman": "phom chop khanom pang khrap",
+    "meaning": "\"I like bread\" (male speaker)"
   },
   {
     "thai": "นม",
@@ -1685,14 +1685,14 @@
     "meaning": "\"milk\""
   },
   {
-    "thai": "ฉันอยากกินนม",
-    "roman": "chan yak gin nom",
-    "meaning": "\"I want to eat milk\""
+    "thai": "ผมอยากกินนมครับ",
+    "roman": "phom yak gin nom khrap",
+    "meaning": "\"I want to eat milk\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบนม",
-    "roman": "chan chop nom",
-    "meaning": "\"I like milk\""
+    "thai": "ผมชอบนมครับ",
+    "roman": "phom chop nom khrap",
+    "meaning": "\"I like milk\" (male speaker)"
   },
   {
     "thai": "น้ำ",
@@ -1700,14 +1700,14 @@
     "meaning": "\"water\""
   },
   {
-    "thai": "ฉันอยากกินน้ำ",
-    "roman": "chan yak gin nam",
-    "meaning": "\"I want to eat water\""
+    "thai": "ผมอยากกินน้ำครับ",
+    "roman": "phom yak gin nam khrap",
+    "meaning": "\"I want to eat water\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบน้ำ",
-    "roman": "chan chop nam",
-    "meaning": "\"I like water\""
+    "thai": "ผมชอบน้ำครับ",
+    "roman": "phom chop nam khrap",
+    "meaning": "\"I like water\" (male speaker)"
   },
   {
     "thai": "น้ำส้ม",
@@ -1715,14 +1715,14 @@
     "meaning": "\"orange juice\""
   },
   {
-    "thai": "ฉันอยากกินน้ำส้ม",
-    "roman": "chan yak gin nam som",
-    "meaning": "\"I want to eat orange juice\""
+    "thai": "ผมอยากกินน้ำส้มครับ",
+    "roman": "phom yak gin nam som khrap",
+    "meaning": "\"I want to eat orange juice\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบน้ำส้ม",
-    "roman": "chan chop nam som",
-    "meaning": "\"I like orange juice\""
+    "thai": "ผมชอบน้ำส้มครับ",
+    "roman": "phom chop nam som khrap",
+    "meaning": "\"I like orange juice\" (male speaker)"
   },
   {
     "thai": "กาแฟ",
@@ -1730,14 +1730,14 @@
     "meaning": "\"coffee\""
   },
   {
-    "thai": "ฉันอยากกินกาแฟ",
-    "roman": "chan yak gin kafae",
-    "meaning": "\"I want to eat coffee\""
+    "thai": "ผมอยากกินกาแฟครับ",
+    "roman": "phom yak gin kafae khrap",
+    "meaning": "\"I want to eat coffee\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบกาแฟ",
-    "roman": "chan chop kafae",
-    "meaning": "\"I like coffee\""
+    "thai": "ผมชอบกาแฟครับ",
+    "roman": "phom chop kafae khrap",
+    "meaning": "\"I like coffee\" (male speaker)"
   },
   {
     "thai": "ชา",
@@ -1745,14 +1745,14 @@
     "meaning": "\"tea\""
   },
   {
-    "thai": "ฉันอยากกินชา",
-    "roman": "chan yak gin cha",
-    "meaning": "\"I want to eat tea\""
+    "thai": "ผมอยากกินชาครับ",
+    "roman": "phom yak gin cha khrap",
+    "meaning": "\"I want to eat tea\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบชา",
-    "roman": "chan chop cha",
-    "meaning": "\"I like tea\""
+    "thai": "ผมชอบชาครับ",
+    "roman": "phom chop cha khrap",
+    "meaning": "\"I like tea\" (male speaker)"
   },
   {
     "thai": "ชาเย็น",
@@ -1760,14 +1760,14 @@
     "meaning": "\"Thai iced tea\""
   },
   {
-    "thai": "ฉันอยากกินชาเย็น",
-    "roman": "chan yak gin cha yen",
-    "meaning": "\"I want to eat Thai iced tea\""
+    "thai": "ผมอยากกินชาเย็นครับ",
+    "roman": "phom yak gin cha yen khrap",
+    "meaning": "\"I want to eat Thai iced tea\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบชาเย็น",
-    "roman": "chan chop cha yen",
-    "meaning": "\"I like Thai iced tea\""
+    "thai": "ผมชอบชาเย็นครับ",
+    "roman": "phom chop cha yen khrap",
+    "meaning": "\"I like Thai iced tea\" (male speaker)"
   },
   {
     "thai": "ผลไม้",
@@ -1775,14 +1775,14 @@
     "meaning": "\"fruit\""
   },
   {
-    "thai": "ฉันอยากกินผลไม้",
-    "roman": "chan yak gin phon-la-mai",
-    "meaning": "\"I want to eat fruit\""
+    "thai": "ผมอยากกินผลไม้ครับ",
+    "roman": "phom yak gin phon-la-mai khrap",
+    "meaning": "\"I want to eat fruit\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบผลไม้",
-    "roman": "chan chop phon-la-mai",
-    "meaning": "\"I like fruit\""
+    "thai": "ผมชอบผลไม้ครับ",
+    "roman": "phom chop phon-la-mai khrap",
+    "meaning": "\"I like fruit\" (male speaker)"
   },
   {
     "thai": "มะม่วง",
@@ -1790,14 +1790,14 @@
     "meaning": "\"mango\""
   },
   {
-    "thai": "ฉันอยากกินมะม่วง",
-    "roman": "chan yak gin mamuang",
-    "meaning": "\"I want to eat mango\""
+    "thai": "ผมอยากกินมะม่วงครับ",
+    "roman": "phom yak gin mamuang khrap",
+    "meaning": "\"I want to eat mango\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบมะม่วง",
-    "roman": "chan chop mamuang",
-    "meaning": "\"I like mango\""
+    "thai": "ผมชอบมะม่วงครับ",
+    "roman": "phom chop mamuang khrap",
+    "meaning": "\"I like mango\" (male speaker)"
   },
   {
     "thai": "กล้วย",
@@ -1805,14 +1805,14 @@
     "meaning": "\"banana\""
   },
   {
-    "thai": "ฉันอยากกินกล้วย",
-    "roman": "chan yak gin gluay",
-    "meaning": "\"I want to eat banana\""
+    "thai": "ผมอยากกินกล้วยครับ",
+    "roman": "phom yak gin gluay khrap",
+    "meaning": "\"I want to eat banana\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบกล้วย",
-    "roman": "chan chop gluay",
-    "meaning": "\"I like banana\""
+    "thai": "ผมชอบกล้วยครับ",
+    "roman": "phom chop gluay khrap",
+    "meaning": "\"I like banana\" (male speaker)"
   },
   {
     "thai": "สับปะรด",
@@ -1820,14 +1820,14 @@
     "meaning": "\"pineapple\""
   },
   {
-    "thai": "ฉันอยากกินสับปะรด",
-    "roman": "chan yak gin sapparot",
-    "meaning": "\"I want to eat pineapple\""
+    "thai": "ผมอยากกินสับปะรดครับ",
+    "roman": "phom yak gin sapparot khrap",
+    "meaning": "\"I want to eat pineapple\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบสับปะรด",
-    "roman": "chan chop sapparot",
-    "meaning": "\"I like pineapple\""
+    "thai": "ผมชอบสับปะรดครับ",
+    "roman": "phom chop sapparot khrap",
+    "meaning": "\"I like pineapple\" (male speaker)"
   },
   {
     "thai": "แตงโม",
@@ -1835,14 +1835,14 @@
     "meaning": "\"watermelon\""
   },
   {
-    "thai": "ฉันอยากกินแตงโม",
-    "roman": "chan yak gin taeng mo",
-    "meaning": "\"I want to eat watermelon\""
+    "thai": "ผมอยากกินแตงโมครับ",
+    "roman": "phom yak gin taeng mo khrap",
+    "meaning": "\"I want to eat watermelon\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบแตงโม",
-    "roman": "chan chop taeng mo",
-    "meaning": "\"I like watermelon\""
+    "thai": "ผมชอบแตงโมครับ",
+    "roman": "phom chop taeng mo khrap",
+    "meaning": "\"I like watermelon\" (male speaker)"
   },
   {
     "thai": "ทุเรียน",
@@ -1850,14 +1850,14 @@
     "meaning": "\"durian\""
   },
   {
-    "thai": "ฉันอยากกินทุเรียน",
-    "roman": "chan yak gin thurian",
-    "meaning": "\"I want to eat durian\""
+    "thai": "ผมอยากกินทุเรียนครับ",
+    "roman": "phom yak gin thurian khrap",
+    "meaning": "\"I want to eat durian\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบทุเรียน",
-    "roman": "chan chop thurian",
-    "meaning": "\"I like durian\""
+    "thai": "ผมชอบทุเรียนครับ",
+    "roman": "phom chop thurian khrap",
+    "meaning": "\"I like durian\" (male speaker)"
   },
   {
     "thai": "มะละกอ",
@@ -1865,14 +1865,14 @@
     "meaning": "\"papaya\""
   },
   {
-    "thai": "ฉันอยากกินมะละกอ",
-    "roman": "chan yak gin malako",
-    "meaning": "\"I want to eat papaya\""
+    "thai": "ผมอยากกินมะละกอครับ",
+    "roman": "phom yak gin malako khrap",
+    "meaning": "\"I want to eat papaya\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบมะละกอ",
-    "roman": "chan chop malako",
-    "meaning": "\"I like papaya\""
+    "thai": "ผมชอบมะละกอครับ",
+    "roman": "phom chop malako khrap",
+    "meaning": "\"I like papaya\" (male speaker)"
   },
   {
     "thai": "ส้ม",
@@ -1880,14 +1880,14 @@
     "meaning": "\"orange\""
   },
   {
-    "thai": "ฉันอยากกินส้ม",
-    "roman": "chan yak gin som",
-    "meaning": "\"I want to eat orange\""
+    "thai": "ผมอยากกินส้มครับ",
+    "roman": "phom yak gin som khrap",
+    "meaning": "\"I want to eat orange\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบส้ม",
-    "roman": "chan chop som",
-    "meaning": "\"I like orange\""
+    "thai": "ผมชอบส้มครับ",
+    "roman": "phom chop som khrap",
+    "meaning": "\"I like orange\" (male speaker)"
   },
   {
     "thai": "องุ่น",
@@ -1895,14 +1895,14 @@
     "meaning": "\"grape\""
   },
   {
-    "thai": "ฉันอยากกินองุ่น",
-    "roman": "chan yak gin angun",
-    "meaning": "\"I want to eat grape\""
+    "thai": "ผมอยากกินองุ่นครับ",
+    "roman": "phom yak gin angun khrap",
+    "meaning": "\"I want to eat grape\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบองุ่น",
-    "roman": "chan chop angun",
-    "meaning": "\"I like grape\""
+    "thai": "ผมชอบองุ่นครับ",
+    "roman": "phom chop angun khrap",
+    "meaning": "\"I like grape\" (male speaker)"
   },
   {
     "thai": "แอปเปิ้ล",
@@ -1910,14 +1910,14 @@
     "meaning": "\"apple\""
   },
   {
-    "thai": "ฉันอยากกินแอปเปิ้ล",
-    "roman": "chan yak gin aepp-oen",
-    "meaning": "\"I want to eat apple\""
+    "thai": "ผมอยากกินแอปเปิ้ลครับ",
+    "roman": "phom yak gin aepp-oen khrap",
+    "meaning": "\"I want to eat apple\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบแอปเปิ้ล",
-    "roman": "chan chop aepp-oen",
-    "meaning": "\"I like apple\""
+    "thai": "ผมชอบแอปเปิ้ลครับ",
+    "roman": "phom chop aepp-oen khrap",
+    "meaning": "\"I like apple\" (male speaker)"
   },
   {
     "thai": "สตรอเบอร์รี่",
@@ -1925,14 +1925,14 @@
     "meaning": "\"strawberry\""
   },
   {
-    "thai": "ฉันอยากกินสตรอเบอร์รี่",
-    "roman": "chan yak gin sataroberi",
-    "meaning": "\"I want to eat strawberry\""
+    "thai": "ผมอยากกินสตรอเบอร์รี่ครับ",
+    "roman": "phom yak gin sataroberi khrap",
+    "meaning": "\"I want to eat strawberry\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบสตรอเบอร์รี่",
-    "roman": "chan chop sataroberi",
-    "meaning": "\"I like strawberry\""
+    "thai": "ผมชอบสตรอเบอร์รี่ครับ",
+    "roman": "phom chop sataroberi khrap",
+    "meaning": "\"I like strawberry\" (male speaker)"
   },
   {
     "thai": "ไอศกรีม",
@@ -1940,14 +1940,14 @@
     "meaning": "\"ice cream\""
   },
   {
-    "thai": "ฉันอยากกินไอศกรีม",
-    "roman": "chan yak gin aisakreem",
-    "meaning": "\"I want to eat ice cream\""
+    "thai": "ผมอยากกินไอศกรีมครับ",
+    "roman": "phom yak gin aisakreem khrap",
+    "meaning": "\"I want to eat ice cream\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบไอศกรีม",
-    "roman": "chan chop aisakreem",
-    "meaning": "\"I like ice cream\""
+    "thai": "ผมชอบไอศกรีมครับ",
+    "roman": "phom chop aisakreem khrap",
+    "meaning": "\"I like ice cream\" (male speaker)"
   },
   {
     "thai": "เค้ก",
@@ -1955,14 +1955,14 @@
     "meaning": "\"cake\""
   },
   {
-    "thai": "ฉันอยากกินเค้ก",
-    "roman": "chan yak gin kek",
-    "meaning": "\"I want to eat cake\""
+    "thai": "ผมอยากกินเค้กครับ",
+    "roman": "phom yak gin kek khrap",
+    "meaning": "\"I want to eat cake\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบเค้ก",
-    "roman": "chan chop kek",
-    "meaning": "\"I like cake\""
+    "thai": "ผมชอบเค้กครับ",
+    "roman": "phom chop kek khrap",
+    "meaning": "\"I like cake\" (male speaker)"
   },
   {
     "thai": "คุกกี้",
@@ -1970,14 +1970,14 @@
     "meaning": "\"cookie\""
   },
   {
-    "thai": "ฉันอยากกินคุกกี้",
-    "roman": "chan yak gin kookee",
-    "meaning": "\"I want to eat cookie\""
+    "thai": "ผมอยากกินคุกกี้ครับ",
+    "roman": "phom yak gin kookee khrap",
+    "meaning": "\"I want to eat cookie\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบคุกกี้",
-    "roman": "chan chop kookee",
-    "meaning": "\"I like cookie\""
+    "thai": "ผมชอบคุกกี้ครับ",
+    "roman": "phom chop kookee khrap",
+    "meaning": "\"I like cookie\" (male speaker)"
   },
   {
     "thai": "ช็อกโกแลต",
@@ -1985,14 +1985,14 @@
     "meaning": "\"chocolate\""
   },
   {
-    "thai": "ฉันอยากกินช็อกโกแลต",
-    "roman": "chan yak gin chokkolaet",
-    "meaning": "\"I want to eat chocolate\""
+    "thai": "ผมอยากกินช็อกโกแลตครับ",
+    "roman": "phom yak gin chokkolaet khrap",
+    "meaning": "\"I want to eat chocolate\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบช็อกโกแลต",
-    "roman": "chan chop chokkolaet",
-    "meaning": "\"I like chocolate\""
+    "thai": "ผมชอบช็อกโกแลตครับ",
+    "roman": "phom chop chokkolaet khrap",
+    "meaning": "\"I like chocolate\" (male speaker)"
   },
   {
     "thai": "น้ำตาล",
@@ -2000,14 +2000,14 @@
     "meaning": "\"sugar\""
   },
   {
-    "thai": "ฉันอยากกินน้ำตาล",
-    "roman": "chan yak gin namtan",
-    "meaning": "\"I want to eat sugar\""
+    "thai": "ผมอยากกินน้ำตาลครับ",
+    "roman": "phom yak gin namtan khrap",
+    "meaning": "\"I want to eat sugar\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบน้ำตาล",
-    "roman": "chan chop namtan",
-    "meaning": "\"I like sugar\""
+    "thai": "ผมชอบน้ำตาลครับ",
+    "roman": "phom chop namtan khrap",
+    "meaning": "\"I like sugar\" (male speaker)"
   },
   {
     "thai": "เกลือ",
@@ -2015,14 +2015,14 @@
     "meaning": "\"salt\""
   },
   {
-    "thai": "ฉันอยากกินเกลือ",
-    "roman": "chan yak gin kluea",
-    "meaning": "\"I want to eat salt\""
+    "thai": "ผมอยากกินเกลือครับ",
+    "roman": "phom yak gin kluea khrap",
+    "meaning": "\"I want to eat salt\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบเกลือ",
-    "roman": "chan chop kluea",
-    "meaning": "\"I like salt\""
+    "thai": "ผมชอบเกลือครับ",
+    "roman": "phom chop kluea khrap",
+    "meaning": "\"I like salt\" (male speaker)"
   },
   {
     "thai": "พริก",
@@ -2030,14 +2030,14 @@
     "meaning": "\"chili\""
   },
   {
-    "thai": "ฉันอยากกินพริก",
-    "roman": "chan yak gin phrik",
-    "meaning": "\"I want to eat chili\""
+    "thai": "ผมอยากกินพริกครับ",
+    "roman": "phom yak gin phrik khrap",
+    "meaning": "\"I want to eat chili\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบพริก",
-    "roman": "chan chop phrik",
-    "meaning": "\"I like chili\""
+    "thai": "ผมชอบพริกครับ",
+    "roman": "phom chop phrik khrap",
+    "meaning": "\"I like chili\" (male speaker)"
   },
   {
     "thai": "กระเทียม",
@@ -2045,14 +2045,14 @@
     "meaning": "\"garlic\""
   },
   {
-    "thai": "ฉันอยากกินกระเทียม",
-    "roman": "chan yak gin krathiam",
-    "meaning": "\"I want to eat garlic\""
+    "thai": "ผมอยากกินกระเทียมครับ",
+    "roman": "phom yak gin krathiam khrap",
+    "meaning": "\"I want to eat garlic\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบกระเทียม",
-    "roman": "chan chop krathiam",
-    "meaning": "\"I like garlic\""
+    "thai": "ผมชอบกระเทียมครับ",
+    "roman": "phom chop krathiam khrap",
+    "meaning": "\"I like garlic\" (male speaker)"
   },
   {
     "thai": "หมูสะเต๊ะ",
@@ -2060,14 +2060,14 @@
     "meaning": "\"pork satay\""
   },
   {
-    "thai": "ฉันอยากกินหมูสะเต๊ะ",
-    "roman": "chan yak gin moo sate",
-    "meaning": "\"I want to eat pork satay\""
+    "thai": "ผมอยากกินหมูสะเต๊ะครับ",
+    "roman": "phom yak gin moo sate khrap",
+    "meaning": "\"I want to eat pork satay\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบหมูสะเต๊ะ",
-    "roman": "chan chop moo sate",
-    "meaning": "\"I like pork satay\""
+    "thai": "ผมชอบหมูสะเต๊ะครับ",
+    "roman": "phom chop moo sate khrap",
+    "meaning": "\"I like pork satay\" (male speaker)"
   },
   {
     "thai": "ปอเปี๊ยะ",
@@ -2075,14 +2075,14 @@
     "meaning": "\"spring rolls\""
   },
   {
-    "thai": "ฉันอยากกินปอเปี๊ยะ",
-    "roman": "chan yak gin por pia",
-    "meaning": "\"I want to eat spring rolls\""
+    "thai": "ผมอยากกินปอเปี๊ยะครับ",
+    "roman": "phom yak gin por pia khrap",
+    "meaning": "\"I want to eat spring rolls\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบปอเปี๊ยะ",
-    "roman": "chan chop por pia",
-    "meaning": "\"I like spring rolls\""
+    "thai": "ผมชอบปอเปี๊ยะครับ",
+    "roman": "phom chop por pia khrap",
+    "meaning": "\"I like spring rolls\" (male speaker)"
   },
   {
     "thai": "ข้าวมันไก่",
@@ -2090,14 +2090,14 @@
     "meaning": "\"chicken rice\""
   },
   {
-    "thai": "ฉันอยากกินข้าวมันไก่",
-    "roman": "chan yak gin khao man gai",
-    "meaning": "\"I want to eat chicken rice\""
+    "thai": "ผมอยากกินข้าวมันไก่ครับ",
+    "roman": "phom yak gin khao man gai khrap",
+    "meaning": "\"I want to eat chicken rice\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบข้าวมันไก่",
-    "roman": "chan chop khao man gai",
-    "meaning": "\"I like chicken rice\""
+    "thai": "ผมชอบข้าวมันไก่ครับ",
+    "roman": "phom chop khao man gai khrap",
+    "meaning": "\"I like chicken rice\" (male speaker)"
   },
   {
     "thai": "ผัดซีอิ๊ว",
@@ -2105,14 +2105,14 @@
     "meaning": "\"stir-fried noodles\""
   },
   {
-    "thai": "ฉันอยากกินผัดซีอิ๊ว",
-    "roman": "chan yak gin phat see-io",
-    "meaning": "\"I want to eat stir-fried noodles\""
+    "thai": "ผมอยากกินผัดซีอิ๊วครับ",
+    "roman": "phom yak gin phat see-io khrap",
+    "meaning": "\"I want to eat stir-fried noodles\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบผัดซีอิ๊ว",
-    "roman": "chan chop phat see-io",
-    "meaning": "\"I like stir-fried noodles\""
+    "thai": "ผมชอบผัดซีอิ๊วครับ",
+    "roman": "phom chop phat see-io khrap",
+    "meaning": "\"I like stir-fried noodles\" (male speaker)"
   },
   {
     "thai": "บะหมี่",
@@ -2120,14 +2120,14 @@
     "meaning": "\"egg noodles\""
   },
   {
-    "thai": "ฉันอยากกินบะหมี่",
-    "roman": "chan yak gin bami",
-    "meaning": "\"I want to eat egg noodles\""
+    "thai": "ผมอยากกินบะหมี่ครับ",
+    "roman": "phom yak gin bami khrap",
+    "meaning": "\"I want to eat egg noodles\" (male speaker)"
   },
   {
-    "thai": "ฉันชอบบะหมี่",
-    "roman": "chan chop bami",
-    "meaning": "\"I like egg noodles\""
+    "thai": "ผมชอบบะหมี่ครับ",
+    "roman": "phom chop bami khrap",
+    "meaning": "\"I like egg noodles\" (male speaker)"
   },
   {
     "thai": "บ้าน",
@@ -2135,14 +2135,14 @@
     "meaning": "\"house\""
   },
   {
-    "thai": "ฉันอยากไปบ้าน",
-    "roman": "chan yak pai ban",
-    "meaning": "\"I want to go to the house\""
+    "thai": "ผมอยากไปบ้านครับ",
+    "roman": "phom yak pai ban khrap",
+    "meaning": "\"I want to go to the house\" (male speaker)"
   },
   {
-    "thai": "บ้านอยู่ไหน",
-    "roman": "ban yoo nai",
-    "meaning": "\"Where is the house?\""
+    "thai": "บ้านอยู่ไหนครับ",
+    "roman": "ban yoo nai khrap",
+    "meaning": "\"Where is the house?\" (male speaker)"
   },
   {
     "thai": "โรงเรียน",
@@ -2150,14 +2150,14 @@
     "meaning": "\"school\""
   },
   {
-    "thai": "ฉันอยากไปโรงเรียน",
-    "roman": "chan yak pai rong rian",
-    "meaning": "\"I want to go to the school\""
+    "thai": "ผมอยากไปโรงเรียนครับ",
+    "roman": "phom yak pai rong rian khrap",
+    "meaning": "\"I want to go to the school\" (male speaker)"
   },
   {
-    "thai": "โรงเรียนอยู่ไหน",
-    "roman": "rong rian yoo nai",
-    "meaning": "\"Where is the school?\""
+    "thai": "โรงเรียนอยู่ไหนครับ",
+    "roman": "rong rian yoo nai khrap",
+    "meaning": "\"Where is the school?\" (male speaker)"
   },
   {
     "thai": "โรงพยาบาล",
@@ -2165,14 +2165,14 @@
     "meaning": "\"hospital\""
   },
   {
-    "thai": "ฉันอยากไปโรงพยาบาล",
-    "roman": "chan yak pai rong phayaban",
-    "meaning": "\"I want to go to the hospital\""
+    "thai": "ผมอยากไปโรงพยาบาลครับ",
+    "roman": "phom yak pai rong phayaban khrap",
+    "meaning": "\"I want to go to the hospital\" (male speaker)"
   },
   {
-    "thai": "โรงพยาบาลอยู่ไหน",
-    "roman": "rong phayaban yoo nai",
-    "meaning": "\"Where is the hospital?\""
+    "thai": "โรงพยาบาลอยู่ไหนครับ",
+    "roman": "rong phayaban yoo nai khrap",
+    "meaning": "\"Where is the hospital?\" (male speaker)"
   },
   {
     "thai": "ตลาด",
@@ -2180,14 +2180,14 @@
     "meaning": "\"market\""
   },
   {
-    "thai": "ฉันอยากไปตลาด",
-    "roman": "chan yak pai talat",
-    "meaning": "\"I want to go to the market\""
+    "thai": "ผมอยากไปตลาดครับ",
+    "roman": "phom yak pai talat khrap",
+    "meaning": "\"I want to go to the market\" (male speaker)"
   },
   {
-    "thai": "ตลาดอยู่ไหน",
-    "roman": "talat yoo nai",
-    "meaning": "\"Where is the market?\""
+    "thai": "ตลาดอยู่ไหนครับ",
+    "roman": "talat yoo nai khrap",
+    "meaning": "\"Where is the market?\" (male speaker)"
   },
   {
     "thai": "ห้างสรรพสินค้า",
@@ -2195,14 +2195,14 @@
     "meaning": "\"shopping mall\""
   },
   {
-    "thai": "ฉันอยากไปห้างสรรพสินค้า",
-    "roman": "chan yak pai hang sapphasinkha",
-    "meaning": "\"I want to go to the shopping mall\""
+    "thai": "ผมอยากไปห้างสรรพสินค้าครับ",
+    "roman": "phom yak pai hang sapphasinkha khrap",
+    "meaning": "\"I want to go to the shopping mall\" (male speaker)"
   },
   {
-    "thai": "ห้างสรรพสินค้าอยู่ไหน",
-    "roman": "hang sapphasinkha yoo nai",
-    "meaning": "\"Where is the shopping mall?\""
+    "thai": "ห้างสรรพสินค้าอยู่ไหนครับ",
+    "roman": "hang sapphasinkha yoo nai khrap",
+    "meaning": "\"Where is the shopping mall?\" (male speaker)"
   },
   {
     "thai": "ร้านอาหาร",
@@ -2210,14 +2210,14 @@
     "meaning": "\"restaurant\""
   },
   {
-    "thai": "ฉันอยากไปร้านอาหาร",
-    "roman": "chan yak pai ran ahan",
-    "meaning": "\"I want to go to the restaurant\""
+    "thai": "ผมอยากไปร้านอาหารครับ",
+    "roman": "phom yak pai ran ahan khrap",
+    "meaning": "\"I want to go to the restaurant\" (male speaker)"
   },
   {
-    "thai": "ร้านอาหารอยู่ไหน",
-    "roman": "ran ahan yoo nai",
-    "meaning": "\"Where is the restaurant?\""
+    "thai": "ร้านอาหารอยู่ไหนครับ",
+    "roman": "ran ahan yoo nai khrap",
+    "meaning": "\"Where is the restaurant?\" (male speaker)"
   },
   {
     "thai": "สนามบิน",
@@ -2225,14 +2225,14 @@
     "meaning": "\"airport\""
   },
   {
-    "thai": "ฉันอยากไปสนามบิน",
-    "roman": "chan yak pai sanam bin",
-    "meaning": "\"I want to go to the airport\""
+    "thai": "ผมอยากไปสนามบินครับ",
+    "roman": "phom yak pai sanam bin khrap",
+    "meaning": "\"I want to go to the airport\" (male speaker)"
   },
   {
-    "thai": "สนามบินอยู่ไหน",
-    "roman": "sanam bin yoo nai",
-    "meaning": "\"Where is the airport?\""
+    "thai": "สนามบินอยู่ไหนครับ",
+    "roman": "sanam bin yoo nai khrap",
+    "meaning": "\"Where is the airport?\" (male speaker)"
   },
   {
     "thai": "สถานีรถไฟ",
@@ -2240,14 +2240,14 @@
     "meaning": "\"train station\""
   },
   {
-    "thai": "ฉันอยากไปสถานีรถไฟ",
-    "roman": "chan yak pai sathanee rot fai",
-    "meaning": "\"I want to go to the train station\""
+    "thai": "ผมอยากไปสถานีรถไฟครับ",
+    "roman": "phom yak pai sathanee rot fai khrap",
+    "meaning": "\"I want to go to the train station\" (male speaker)"
   },
   {
-    "thai": "สถานีรถไฟอยู่ไหน",
-    "roman": "sathanee rot fai yoo nai",
-    "meaning": "\"Where is the train station?\""
+    "thai": "สถานีรถไฟอยู่ไหนครับ",
+    "roman": "sathanee rot fai yoo nai khrap",
+    "meaning": "\"Where is the train station?\" (male speaker)"
   },
   {
     "thai": "วัด",
@@ -2255,14 +2255,14 @@
     "meaning": "\"temple\""
   },
   {
-    "thai": "ฉันอยากไปวัด",
-    "roman": "chan yak pai wat",
-    "meaning": "\"I want to go to the temple\""
+    "thai": "ผมอยากไปวัดครับ",
+    "roman": "phom yak pai wat khrap",
+    "meaning": "\"I want to go to the temple\" (male speaker)"
   },
   {
-    "thai": "วัดอยู่ไหน",
-    "roman": "wat yoo nai",
-    "meaning": "\"Where is the temple?\""
+    "thai": "วัดอยู่ไหนครับ",
+    "roman": "wat yoo nai khrap",
+    "meaning": "\"Where is the temple?\" (male speaker)"
   },
   {
     "thai": "สวนสาธารณะ",
@@ -2270,14 +2270,14 @@
     "meaning": "\"public park\""
   },
   {
-    "thai": "ฉันอยากไปสวนสาธารณะ",
-    "roman": "chan yak pai suan sathara-na",
-    "meaning": "\"I want to go to the public park\""
+    "thai": "ผมอยากไปสวนสาธารณะครับ",
+    "roman": "phom yak pai suan sathara-na khrap",
+    "meaning": "\"I want to go to the public park\" (male speaker)"
   },
   {
-    "thai": "สวนสาธารณะอยู่ไหน",
-    "roman": "suan sathara-na yoo nai",
-    "meaning": "\"Where is the public park?\""
+    "thai": "สวนสาธารณะอยู่ไหนครับ",
+    "roman": "suan sathara-na yoo nai khrap",
+    "meaning": "\"Where is the public park?\" (male speaker)"
   },
   {
     "thai": "ธนาคาร",
@@ -2285,14 +2285,14 @@
     "meaning": "\"bank\""
   },
   {
-    "thai": "ฉันอยากไปธนาคาร",
-    "roman": "chan yak pai thanakhan",
-    "meaning": "\"I want to go to the bank\""
+    "thai": "ผมอยากไปธนาคารครับ",
+    "roman": "phom yak pai thanakhan khrap",
+    "meaning": "\"I want to go to the bank\" (male speaker)"
   },
   {
-    "thai": "ธนาคารอยู่ไหน",
-    "roman": "thanakhan yoo nai",
-    "meaning": "\"Where is the bank?\""
+    "thai": "ธนาคารอยู่ไหนครับ",
+    "roman": "thanakhan yoo nai khrap",
+    "meaning": "\"Where is the bank?\" (male speaker)"
   },
   {
     "thai": "ไปรษณีย์",
@@ -2300,14 +2300,14 @@
     "meaning": "\"post office\""
   },
   {
-    "thai": "ฉันอยากไปไปรษณีย์",
-    "roman": "chan yak pai praisanee",
-    "meaning": "\"I want to go to the post office\""
+    "thai": "ผมอยากไปไปรษณีย์ครับ",
+    "roman": "phom yak pai praisanee khrap",
+    "meaning": "\"I want to go to the post office\" (male speaker)"
   },
   {
-    "thai": "ไปรษณีย์อยู่ไหน",
-    "roman": "praisanee yoo nai",
-    "meaning": "\"Where is the post office?\""
+    "thai": "ไปรษณีย์อยู่ไหนครับ",
+    "roman": "praisanee yoo nai khrap",
+    "meaning": "\"Where is the post office?\" (male speaker)"
   },
   {
     "thai": "ร้านค้า",
@@ -2315,14 +2315,14 @@
     "meaning": "\"shop\""
   },
   {
-    "thai": "ฉันอยากไปร้านค้า",
-    "roman": "chan yak pai ran kha",
-    "meaning": "\"I want to go to the shop\""
+    "thai": "ผมอยากไปร้านค้าครับ",
+    "roman": "phom yak pai ran kha khrap",
+    "meaning": "\"I want to go to the shop\" (male speaker)"
   },
   {
-    "thai": "ร้านค้าอยู่ไหน",
-    "roman": "ran kha yoo nai",
-    "meaning": "\"Where is the shop?\""
+    "thai": "ร้านค้าอยู่ไหนครับ",
+    "roman": "ran kha yoo nai khrap",
+    "meaning": "\"Where is the shop?\" (male speaker)"
   },
   {
     "thai": "โรงแรม",
@@ -2330,14 +2330,14 @@
     "meaning": "\"hotel\""
   },
   {
-    "thai": "ฉันอยากไปโรงแรม",
-    "roman": "chan yak pai rong raem",
-    "meaning": "\"I want to go to the hotel\""
+    "thai": "ผมอยากไปโรงแรมครับ",
+    "roman": "phom yak pai rong raem khrap",
+    "meaning": "\"I want to go to the hotel\" (male speaker)"
   },
   {
-    "thai": "โรงแรมอยู่ไหน",
-    "roman": "rong raem yoo nai",
-    "meaning": "\"Where is the hotel?\""
+    "thai": "โรงแรมอยู่ไหนครับ",
+    "roman": "rong raem yoo nai khrap",
+    "meaning": "\"Where is the hotel?\" (male speaker)"
   },
   {
     "thai": "ชายหาด",
@@ -2345,14 +2345,14 @@
     "meaning": "\"beach\""
   },
   {
-    "thai": "ฉันอยากไปชายหาด",
-    "roman": "chan yak pai chai hat",
-    "meaning": "\"I want to go to the beach\""
+    "thai": "ผมอยากไปชายหาดครับ",
+    "roman": "phom yak pai chai hat khrap",
+    "meaning": "\"I want to go to the beach\" (male speaker)"
   },
   {
-    "thai": "ชายหาดอยู่ไหน",
-    "roman": "chai hat yoo nai",
-    "meaning": "\"Where is the beach?\""
+    "thai": "ชายหาดอยู่ไหนครับ",
+    "roman": "chai hat yoo nai khrap",
+    "meaning": "\"Where is the beach?\" (male speaker)"
   },
   {
     "thai": "ภูเขา",
@@ -2360,14 +2360,14 @@
     "meaning": "\"mountain\""
   },
   {
-    "thai": "ฉันอยากไปภูเขา",
-    "roman": "chan yak pai phukhao",
-    "meaning": "\"I want to go to the mountain\""
+    "thai": "ผมอยากไปภูเขาครับ",
+    "roman": "phom yak pai phukhao khrap",
+    "meaning": "\"I want to go to the mountain\" (male speaker)"
   },
   {
-    "thai": "ภูเขาอยู่ไหน",
-    "roman": "phukhao yoo nai",
-    "meaning": "\"Where is the mountain?\""
+    "thai": "ภูเขาอยู่ไหนครับ",
+    "roman": "phukhao yoo nai khrap",
+    "meaning": "\"Where is the mountain?\" (male speaker)"
   },
   {
     "thai": "แม่น้ำ",
@@ -2375,14 +2375,14 @@
     "meaning": "\"river\""
   },
   {
-    "thai": "ฉันอยากไปแม่น้ำ",
-    "roman": "chan yak pai maenam",
-    "meaning": "\"I want to go to the river\""
+    "thai": "ผมอยากไปแม่น้ำครับ",
+    "roman": "phom yak pai maenam khrap",
+    "meaning": "\"I want to go to the river\" (male speaker)"
   },
   {
-    "thai": "แม่น้ำอยู่ไหน",
-    "roman": "maenam yoo nai",
-    "meaning": "\"Where is the river?\""
+    "thai": "แม่น้ำอยู่ไหนครับ",
+    "roman": "maenam yoo nai khrap",
+    "meaning": "\"Where is the river?\" (male speaker)"
   },
   {
     "thai": "ทะเล",
@@ -2390,14 +2390,14 @@
     "meaning": "\"sea\""
   },
   {
-    "thai": "ฉันอยากไปทะเล",
-    "roman": "chan yak pai thale",
-    "meaning": "\"I want to go to the sea\""
+    "thai": "ผมอยากไปทะเลครับ",
+    "roman": "phom yak pai thale khrap",
+    "meaning": "\"I want to go to the sea\" (male speaker)"
   },
   {
-    "thai": "ทะเลอยู่ไหน",
-    "roman": "thale yoo nai",
-    "meaning": "\"Where is the sea?\""
+    "thai": "ทะเลอยู่ไหนครับ",
+    "roman": "thale yoo nai khrap",
+    "meaning": "\"Where is the sea?\" (male speaker)"
   },
   {
     "thai": "มหาวิทยาลัย",
@@ -2405,14 +2405,14 @@
     "meaning": "\"university\""
   },
   {
-    "thai": "ฉันอยากไปมหาวิทยาลัย",
-    "roman": "chan yak pai mahawitthayalai",
-    "meaning": "\"I want to go to the university\""
+    "thai": "ผมอยากไปมหาวิทยาลัยครับ",
+    "roman": "phom yak pai mahawitthayalai khrap",
+    "meaning": "\"I want to go to the university\" (male speaker)"
   },
   {
-    "thai": "มหาวิทยาลัยอยู่ไหน",
-    "roman": "mahawitthayalai yoo nai",
-    "meaning": "\"Where is the university?\""
+    "thai": "มหาวิทยาลัยอยู่ไหนครับ",
+    "roman": "mahawitthayalai yoo nai khrap",
+    "meaning": "\"Where is the university?\" (male speaker)"
   },
   {
     "thai": "ห้องสมุด",
@@ -2420,14 +2420,14 @@
     "meaning": "\"library\""
   },
   {
-    "thai": "ฉันอยากไปห้องสมุด",
-    "roman": "chan yak pai hong samut",
-    "meaning": "\"I want to go to the library\""
+    "thai": "ผมอยากไปห้องสมุดครับ",
+    "roman": "phom yak pai hong samut khrap",
+    "meaning": "\"I want to go to the library\" (male speaker)"
   },
   {
-    "thai": "ห้องสมุดอยู่ไหน",
-    "roman": "hong samut yoo nai",
-    "meaning": "\"Where is the library?\""
+    "thai": "ห้องสมุดอยู่ไหนครับ",
+    "roman": "hong samut yoo nai khrap",
+    "meaning": "\"Where is the library?\" (male speaker)"
   },
   {
     "thai": "สถานีตำรวจ",
@@ -2435,14 +2435,14 @@
     "meaning": "\"police station\""
   },
   {
-    "thai": "ฉันอยากไปสถานีตำรวจ",
-    "roman": "chan yak pai sathanee tamruat",
-    "meaning": "\"I want to go to the police station\""
+    "thai": "ผมอยากไปสถานีตำรวจครับ",
+    "roman": "phom yak pai sathanee tamruat khrap",
+    "meaning": "\"I want to go to the police station\" (male speaker)"
   },
   {
-    "thai": "สถานีตำรวจอยู่ไหน",
-    "roman": "sathanee tamruat yoo nai",
-    "meaning": "\"Where is the police station?\""
+    "thai": "สถานีตำรวจอยู่ไหนครับ",
+    "roman": "sathanee tamruat yoo nai khrap",
+    "meaning": "\"Where is the police station?\" (male speaker)"
   },
   {
     "thai": "ปั๊มน้ำมัน",
@@ -2450,14 +2450,14 @@
     "meaning": "\"gas station\""
   },
   {
-    "thai": "ฉันอยากไปปั๊มน้ำมัน",
-    "roman": "chan yak pai pam namman",
-    "meaning": "\"I want to go to the gas station\""
+    "thai": "ผมอยากไปปั๊มน้ำมันครับ",
+    "roman": "phom yak pai pam namman khrap",
+    "meaning": "\"I want to go to the gas station\" (male speaker)"
   },
   {
-    "thai": "ปั๊มน้ำมันอยู่ไหน",
-    "roman": "pam namman yoo nai",
-    "meaning": "\"Where is the gas station?\""
+    "thai": "ปั๊มน้ำมันอยู่ไหนครับ",
+    "roman": "pam namman yoo nai khrap",
+    "meaning": "\"Where is the gas station?\" (male speaker)"
   },
   {
     "thai": "ซูเปอร์มาร์เก็ต",
@@ -2465,14 +2465,14 @@
     "meaning": "\"supermarket\""
   },
   {
-    "thai": "ฉันอยากไปซูเปอร์มาร์เก็ต",
-    "roman": "chan yak pai supermarket",
-    "meaning": "\"I want to go to the supermarket\""
+    "thai": "ผมอยากไปซูเปอร์มาร์เก็ตครับ",
+    "roman": "phom yak pai supermarket khrap",
+    "meaning": "\"I want to go to the supermarket\" (male speaker)"
   },
   {
-    "thai": "ซูเปอร์มาร์เก็ตอยู่ไหน",
-    "roman": "supermarket yoo nai",
-    "meaning": "\"Where is the supermarket?\""
+    "thai": "ซูเปอร์มาร์เก็ตอยู่ไหนครับ",
+    "roman": "supermarket yoo nai khrap",
+    "meaning": "\"Where is the supermarket?\" (male speaker)"
   },
   {
     "thai": "สวนสัตว์",
@@ -2480,14 +2480,14 @@
     "meaning": "\"zoo\""
   },
   {
-    "thai": "ฉันอยากไปสวนสัตว์",
-    "roman": "chan yak pai suan sat",
-    "meaning": "\"I want to go to the zoo\""
+    "thai": "ผมอยากไปสวนสัตว์ครับ",
+    "roman": "phom yak pai suan sat khrap",
+    "meaning": "\"I want to go to the zoo\" (male speaker)"
   },
   {
-    "thai": "สวนสัตว์อยู่ไหน",
-    "roman": "suan sat yoo nai",
-    "meaning": "\"Where is the zoo?\""
+    "thai": "สวนสัตว์อยู่ไหนครับ",
+    "roman": "suan sat yoo nai khrap",
+    "meaning": "\"Where is the zoo?\" (male speaker)"
   },
   {
     "thai": "พิพิธภัณฑ์",
@@ -2495,14 +2495,14 @@
     "meaning": "\"museum\""
   },
   {
-    "thai": "ฉันอยากไปพิพิธภัณฑ์",
-    "roman": "chan yak pai phiphithaphan",
-    "meaning": "\"I want to go to the museum\""
+    "thai": "ผมอยากไปพิพิธภัณฑ์ครับ",
+    "roman": "phom yak pai phiphithaphan khrap",
+    "meaning": "\"I want to go to the museum\" (male speaker)"
   },
   {
-    "thai": "พิพิธภัณฑ์อยู่ไหน",
-    "roman": "phiphithaphan yoo nai",
-    "meaning": "\"Where is the museum?\""
+    "thai": "พิพิธภัณฑ์อยู่ไหนครับ",
+    "roman": "phiphithaphan yoo nai khrap",
+    "meaning": "\"Where is the museum?\" (male speaker)"
   },
   {
     "thai": "โรงภาพยนตร์",
@@ -2510,14 +2510,14 @@
     "meaning": "\"cinema\""
   },
   {
-    "thai": "ฉันอยากไปโรงภาพยนตร์",
-    "roman": "chan yak pai rong phapphayon",
-    "meaning": "\"I want to go to the cinema\""
+    "thai": "ผมอยากไปโรงภาพยนตร์ครับ",
+    "roman": "phom yak pai rong phapphayon khrap",
+    "meaning": "\"I want to go to the cinema\" (male speaker)"
   },
   {
-    "thai": "โรงภาพยนตร์อยู่ไหน",
-    "roman": "rong phapphayon yoo nai",
-    "meaning": "\"Where is the cinema?\""
+    "thai": "โรงภาพยนตร์อยู่ไหนครับ",
+    "roman": "rong phapphayon yoo nai khrap",
+    "meaning": "\"Where is the cinema?\" (male speaker)"
   },
   {
     "thai": "สถานีขนส่ง",
@@ -2525,14 +2525,14 @@
     "meaning": "\"bus station\""
   },
   {
-    "thai": "ฉันอยากไปสถานีขนส่ง",
-    "roman": "chan yak pai sathanee khonsong",
-    "meaning": "\"I want to go to the bus station\""
+    "thai": "ผมอยากไปสถานีขนส่งครับ",
+    "roman": "phom yak pai sathanee khonsong khrap",
+    "meaning": "\"I want to go to the bus station\" (male speaker)"
   },
   {
-    "thai": "สถานีขนส่งอยู่ไหน",
-    "roman": "sathanee khonsong yoo nai",
-    "meaning": "\"Where is the bus station?\""
+    "thai": "สถานีขนส่งอยู่ไหนครับ",
+    "roman": "sathanee khonsong yoo nai khrap",
+    "meaning": "\"Where is the bus station?\" (male speaker)"
   },
   {
     "thai": "ท่าเรือ",
@@ -2540,14 +2540,14 @@
     "meaning": "\"pier\""
   },
   {
-    "thai": "ฉันอยากไปท่าเรือ",
-    "roman": "chan yak pai tha ruea",
-    "meaning": "\"I want to go to the pier\""
+    "thai": "ผมอยากไปท่าเรือครับ",
+    "roman": "phom yak pai tha ruea khrap",
+    "meaning": "\"I want to go to the pier\" (male speaker)"
   },
   {
-    "thai": "ท่าเรืออยู่ไหน",
-    "roman": "tha ruea yoo nai",
-    "meaning": "\"Where is the pier?\""
+    "thai": "ท่าเรืออยู่ไหนครับ",
+    "roman": "tha ruea yoo nai khrap",
+    "meaning": "\"Where is the pier?\" (male speaker)"
   },
   {
     "thai": "ห้องน้ำ",
@@ -2555,14 +2555,14 @@
     "meaning": "\"bathroom\""
   },
   {
-    "thai": "ฉันอยากไปห้องน้ำ",
-    "roman": "chan yak pai hong nam",
-    "meaning": "\"I want to go to the bathroom\""
+    "thai": "ผมอยากไปห้องน้ำครับ",
+    "roman": "phom yak pai hong nam khrap",
+    "meaning": "\"I want to go to the bathroom\" (male speaker)"
   },
   {
-    "thai": "ห้องน้ำอยู่ไหน",
-    "roman": "hong nam yoo nai",
-    "meaning": "\"Where is the bathroom?\""
+    "thai": "ห้องน้ำอยู่ไหนครับ",
+    "roman": "hong nam yoo nai khrap",
+    "meaning": "\"Where is the bathroom?\" (male speaker)"
   },
   {
     "thai": "สนามเด็กเล่น",
@@ -2570,14 +2570,14 @@
     "meaning": "\"playground\""
   },
   {
-    "thai": "ฉันอยากไปสนามเด็กเล่น",
-    "roman": "chan yak pai sanam dek len",
-    "meaning": "\"I want to go to the playground\""
+    "thai": "ผมอยากไปสนามเด็กเล่นครับ",
+    "roman": "phom yak pai sanam dek len khrap",
+    "meaning": "\"I want to go to the playground\" (male speaker)"
   },
   {
-    "thai": "สนามเด็กเล่นอยู่ไหน",
-    "roman": "sanam dek len yoo nai",
-    "meaning": "\"Where is the playground?\""
+    "thai": "สนามเด็กเล่นอยู่ไหนครับ",
+    "roman": "sanam dek len yoo nai khrap",
+    "meaning": "\"Where is the playground?\" (male speaker)"
   },
   {
     "thai": "โทรศัพท์",
@@ -2585,19 +2585,19 @@
     "meaning": "\"phone\""
   },
   {
-    "thai": "ฉันมีโทรศัพท์",
-    "roman": "chan mee thorasap",
-    "meaning": "\"I have a phone\""
+    "thai": "ผมมีโทรศัพท์ครับ",
+    "roman": "phom mee thorasap khrap",
+    "meaning": "\"I have a phone\" (male speaker)"
   },
   {
-    "thai": "คุณมีโทรศัพท์ไหม",
-    "roman": "khun mee thorasap mai",
-    "meaning": "\"Do you have a phone?\""
+    "thai": "คุณมีโทรศัพท์ไหมครับ",
+    "roman": "khun mee thorasap mai khrap",
+    "meaning": "\"Do you have a phone?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อโทรศัพท์",
-    "roman": "chan yak seu thorasap",
-    "meaning": "\"I want to buy a phone\""
+    "thai": "ผมอยากซื้อโทรศัพท์ครับ",
+    "roman": "phom yak seu thorasap khrap",
+    "meaning": "\"I want to buy a phone\" (male speaker)"
   },
   {
     "thai": "หนังสือ",
@@ -2605,19 +2605,19 @@
     "meaning": "\"book\""
   },
   {
-    "thai": "ฉันมีหนังสือ",
-    "roman": "chan mee nangsue",
-    "meaning": "\"I have a book\""
+    "thai": "ผมมีหนังสือครับ",
+    "roman": "phom mee nangsue khrap",
+    "meaning": "\"I have a book\" (male speaker)"
   },
   {
-    "thai": "คุณมีหนังสือไหม",
-    "roman": "khun mee nangsue mai",
-    "meaning": "\"Do you have a book?\""
+    "thai": "คุณมีหนังสือไหมครับ",
+    "roman": "khun mee nangsue mai khrap",
+    "meaning": "\"Do you have a book?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อหนังสือ",
-    "roman": "chan yak seu nangsue",
-    "meaning": "\"I want to buy a book\""
+    "thai": "ผมอยากซื้อหนังสือครับ",
+    "roman": "phom yak seu nangsue khrap",
+    "meaning": "\"I want to buy a book\" (male speaker)"
   },
   {
     "thai": "ปากกา",
@@ -2625,19 +2625,19 @@
     "meaning": "\"pen\""
   },
   {
-    "thai": "ฉันมีปากกา",
-    "roman": "chan mee pakka",
-    "meaning": "\"I have a pen\""
+    "thai": "ผมมีปากกาครับ",
+    "roman": "phom mee pakka khrap",
+    "meaning": "\"I have a pen\" (male speaker)"
   },
   {
-    "thai": "คุณมีปากกาไหม",
-    "roman": "khun mee pakka mai",
-    "meaning": "\"Do you have a pen?\""
+    "thai": "คุณมีปากกาไหมครับ",
+    "roman": "khun mee pakka mai khrap",
+    "meaning": "\"Do you have a pen?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อปากกา",
-    "roman": "chan yak seu pakka",
-    "meaning": "\"I want to buy a pen\""
+    "thai": "ผมอยากซื้อปากกาครับ",
+    "roman": "phom yak seu pakka khrap",
+    "meaning": "\"I want to buy a pen\" (male speaker)"
   },
   {
     "thai": "ดินสอ",
@@ -2645,19 +2645,19 @@
     "meaning": "\"pencil\""
   },
   {
-    "thai": "ฉันมีดินสอ",
-    "roman": "chan mee dinso",
-    "meaning": "\"I have a pencil\""
+    "thai": "ผมมีดินสอครับ",
+    "roman": "phom mee dinso khrap",
+    "meaning": "\"I have a pencil\" (male speaker)"
   },
   {
-    "thai": "คุณมีดินสอไหม",
-    "roman": "khun mee dinso mai",
-    "meaning": "\"Do you have a pencil?\""
+    "thai": "คุณมีดินสอไหมครับ",
+    "roman": "khun mee dinso mai khrap",
+    "meaning": "\"Do you have a pencil?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อดินสอ",
-    "roman": "chan yak seu dinso",
-    "meaning": "\"I want to buy a pencil\""
+    "thai": "ผมอยากซื้อดินสอครับ",
+    "roman": "phom yak seu dinso khrap",
+    "meaning": "\"I want to buy a pencil\" (male speaker)"
   },
   {
     "thai": "กระเป๋า",
@@ -2665,19 +2665,19 @@
     "meaning": "\"bag\""
   },
   {
-    "thai": "ฉันมีกระเป๋า",
-    "roman": "chan mee krapao",
-    "meaning": "\"I have a bag\""
+    "thai": "ผมมีกระเป๋าครับ",
+    "roman": "phom mee krapao khrap",
+    "meaning": "\"I have a bag\" (male speaker)"
   },
   {
-    "thai": "คุณมีกระเป๋าไหม",
-    "roman": "khun mee krapao mai",
-    "meaning": "\"Do you have a bag?\""
+    "thai": "คุณมีกระเป๋าไหมครับ",
+    "roman": "khun mee krapao mai khrap",
+    "meaning": "\"Do you have a bag?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อกระเป๋า",
-    "roman": "chan yak seu krapao",
-    "meaning": "\"I want to buy a bag\""
+    "thai": "ผมอยากซื้อกระเป๋าครับ",
+    "roman": "phom yak seu krapao khrap",
+    "meaning": "\"I want to buy a bag\" (male speaker)"
   },
   {
     "thai": "รถยนต์",
@@ -2685,19 +2685,19 @@
     "meaning": "\"car\""
   },
   {
-    "thai": "ฉันมีรถยนต์",
-    "roman": "chan mee rot yon",
-    "meaning": "\"I have a car\""
+    "thai": "ผมมีรถยนต์ครับ",
+    "roman": "phom mee rot yon khrap",
+    "meaning": "\"I have a car\" (male speaker)"
   },
   {
-    "thai": "คุณมีรถยนต์ไหม",
-    "roman": "khun mee rot yon mai",
-    "meaning": "\"Do you have a car?\""
+    "thai": "คุณมีรถยนต์ไหมครับ",
+    "roman": "khun mee rot yon mai khrap",
+    "meaning": "\"Do you have a car?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อรถยนต์",
-    "roman": "chan yak seu rot yon",
-    "meaning": "\"I want to buy a car\""
+    "thai": "ผมอยากซื้อรถยนต์ครับ",
+    "roman": "phom yak seu rot yon khrap",
+    "meaning": "\"I want to buy a car\" (male speaker)"
   },
   {
     "thai": "จักรยาน",
@@ -2705,19 +2705,19 @@
     "meaning": "\"bicycle\""
   },
   {
-    "thai": "ฉันมีจักรยาน",
-    "roman": "chan mee jakkrayan",
-    "meaning": "\"I have a bicycle\""
+    "thai": "ผมมีจักรยานครับ",
+    "roman": "phom mee jakkrayan khrap",
+    "meaning": "\"I have a bicycle\" (male speaker)"
   },
   {
-    "thai": "คุณมีจักรยานไหม",
-    "roman": "khun mee jakkrayan mai",
-    "meaning": "\"Do you have a bicycle?\""
+    "thai": "คุณมีจักรยานไหมครับ",
+    "roman": "khun mee jakkrayan mai khrap",
+    "meaning": "\"Do you have a bicycle?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อจักรยาน",
-    "roman": "chan yak seu jakkrayan",
-    "meaning": "\"I want to buy a bicycle\""
+    "thai": "ผมอยากซื้อจักรยานครับ",
+    "roman": "phom yak seu jakkrayan khrap",
+    "meaning": "\"I want to buy a bicycle\" (male speaker)"
   },
   {
     "thai": "รถจักรยานยนต์",
@@ -2725,19 +2725,19 @@
     "meaning": "\"motorcycle\""
   },
   {
-    "thai": "ฉันมีรถจักรยานยนต์",
-    "roman": "chan mee rot jakkrayan yon",
-    "meaning": "\"I have a motorcycle\""
+    "thai": "ผมมีรถจักรยานยนต์ครับ",
+    "roman": "phom mee rot jakkrayan yon khrap",
+    "meaning": "\"I have a motorcycle\" (male speaker)"
   },
   {
-    "thai": "คุณมีรถจักรยานยนต์ไหม",
-    "roman": "khun mee rot jakkrayan yon mai",
-    "meaning": "\"Do you have a motorcycle?\""
+    "thai": "คุณมีรถจักรยานยนต์ไหมครับ",
+    "roman": "khun mee rot jakkrayan yon mai khrap",
+    "meaning": "\"Do you have a motorcycle?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อรถจักรยานยนต์",
-    "roman": "chan yak seu rot jakkrayan yon",
-    "meaning": "\"I want to buy a motorcycle\""
+    "thai": "ผมอยากซื้อรถจักรยานยนต์ครับ",
+    "roman": "phom yak seu rot jakkrayan yon khrap",
+    "meaning": "\"I want to buy a motorcycle\" (male speaker)"
   },
   {
     "thai": "นาฬิกา",
@@ -2745,19 +2745,19 @@
     "meaning": "\"clock/watch\""
   },
   {
-    "thai": "ฉันมีนาฬิกา",
-    "roman": "chan mee nalika",
-    "meaning": "\"I have a clock/watch\""
+    "thai": "ผมมีนาฬิกาครับ",
+    "roman": "phom mee nalika khrap",
+    "meaning": "\"I have a clock/watch\" (male speaker)"
   },
   {
-    "thai": "คุณมีนาฬิกาไหม",
-    "roman": "khun mee nalika mai",
-    "meaning": "\"Do you have a clock/watch?\""
+    "thai": "คุณมีนาฬิกาไหมครับ",
+    "roman": "khun mee nalika mai khrap",
+    "meaning": "\"Do you have a clock/watch?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อนาฬิกา",
-    "roman": "chan yak seu nalika",
-    "meaning": "\"I want to buy a clock/watch\""
+    "thai": "ผมอยากซื้อนาฬิกาครับ",
+    "roman": "phom yak seu nalika khrap",
+    "meaning": "\"I want to buy a clock/watch\" (male speaker)"
   },
   {
     "thai": "แว่นตา",
@@ -2765,19 +2765,19 @@
     "meaning": "\"glasses\""
   },
   {
-    "thai": "ฉันมีแว่นตา",
-    "roman": "chan mee waen ta",
-    "meaning": "\"I have a glasses\""
+    "thai": "ผมมีแว่นตาครับ",
+    "roman": "phom mee waen ta khrap",
+    "meaning": "\"I have a glasses\" (male speaker)"
   },
   {
-    "thai": "คุณมีแว่นตาไหม",
-    "roman": "khun mee waen ta mai",
-    "meaning": "\"Do you have a glasses?\""
+    "thai": "คุณมีแว่นตาไหมครับ",
+    "roman": "khun mee waen ta mai khrap",
+    "meaning": "\"Do you have a glasses?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อแว่นตา",
-    "roman": "chan yak seu waen ta",
-    "meaning": "\"I want to buy a glasses\""
+    "thai": "ผมอยากซื้อแว่นตาครับ",
+    "roman": "phom yak seu waen ta khrap",
+    "meaning": "\"I want to buy a glasses\" (male speaker)"
   },
   {
     "thai": "รองเท้า",
@@ -2785,19 +2785,19 @@
     "meaning": "\"shoes\""
   },
   {
-    "thai": "ฉันมีรองเท้า",
-    "roman": "chan mee rong thao",
-    "meaning": "\"I have a shoes\""
+    "thai": "ผมมีรองเท้าครับ",
+    "roman": "phom mee rong thao khrap",
+    "meaning": "\"I have a shoes\" (male speaker)"
   },
   {
-    "thai": "คุณมีรองเท้าไหม",
-    "roman": "khun mee rong thao mai",
-    "meaning": "\"Do you have a shoes?\""
+    "thai": "คุณมีรองเท้าไหมครับ",
+    "roman": "khun mee rong thao mai khrap",
+    "meaning": "\"Do you have a shoes?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อรองเท้า",
-    "roman": "chan yak seu rong thao",
-    "meaning": "\"I want to buy a shoes\""
+    "thai": "ผมอยากซื้อรองเท้าครับ",
+    "roman": "phom yak seu rong thao khrap",
+    "meaning": "\"I want to buy a shoes\" (male speaker)"
   },
   {
     "thai": "เสื้อผ้า",
@@ -2805,19 +2805,19 @@
     "meaning": "\"clothes\""
   },
   {
-    "thai": "ฉันมีเสื้อผ้า",
-    "roman": "chan mee seua pha",
-    "meaning": "\"I have a clothes\""
+    "thai": "ผมมีเสื้อผ้าครับ",
+    "roman": "phom mee seua pha khrap",
+    "meaning": "\"I have a clothes\" (male speaker)"
   },
   {
-    "thai": "คุณมีเสื้อผ้าไหม",
-    "roman": "khun mee seua pha mai",
-    "meaning": "\"Do you have a clothes?\""
+    "thai": "คุณมีเสื้อผ้าไหมครับ",
+    "roman": "khun mee seua pha mai khrap",
+    "meaning": "\"Do you have a clothes?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อเสื้อผ้า",
-    "roman": "chan yak seu seua pha",
-    "meaning": "\"I want to buy a clothes\""
+    "thai": "ผมอยากซื้อเสื้อผ้าครับ",
+    "roman": "phom yak seu seua pha khrap",
+    "meaning": "\"I want to buy a clothes\" (male speaker)"
   },
   {
     "thai": "กระจก",
@@ -2825,19 +2825,19 @@
     "meaning": "\"mirror\""
   },
   {
-    "thai": "ฉันมีกระจก",
-    "roman": "chan mee krajok",
-    "meaning": "\"I have a mirror\""
+    "thai": "ผมมีกระจกครับ",
+    "roman": "phom mee krajok khrap",
+    "meaning": "\"I have a mirror\" (male speaker)"
   },
   {
-    "thai": "คุณมีกระจกไหม",
-    "roman": "khun mee krajok mai",
-    "meaning": "\"Do you have a mirror?\""
+    "thai": "คุณมีกระจกไหมครับ",
+    "roman": "khun mee krajok mai khrap",
+    "meaning": "\"Do you have a mirror?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อกระจก",
-    "roman": "chan yak seu krajok",
-    "meaning": "\"I want to buy a mirror\""
+    "thai": "ผมอยากซื้อกระจกครับ",
+    "roman": "phom yak seu krajok khrap",
+    "meaning": "\"I want to buy a mirror\" (male speaker)"
   },
   {
     "thai": "โต๊ะ",
@@ -2845,19 +2845,19 @@
     "meaning": "\"table\""
   },
   {
-    "thai": "ฉันมีโต๊ะ",
-    "roman": "chan mee to",
-    "meaning": "\"I have a table\""
+    "thai": "ผมมีโต๊ะครับ",
+    "roman": "phom mee to khrap",
+    "meaning": "\"I have a table\" (male speaker)"
   },
   {
-    "thai": "คุณมีโต๊ะไหม",
-    "roman": "khun mee to mai",
-    "meaning": "\"Do you have a table?\""
+    "thai": "คุณมีโต๊ะไหมครับ",
+    "roman": "khun mee to mai khrap",
+    "meaning": "\"Do you have a table?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อโต๊ะ",
-    "roman": "chan yak seu to",
-    "meaning": "\"I want to buy a table\""
+    "thai": "ผมอยากซื้อโต๊ะครับ",
+    "roman": "phom yak seu to khrap",
+    "meaning": "\"I want to buy a table\" (male speaker)"
   },
   {
     "thai": "เก้าอี้",
@@ -2865,19 +2865,19 @@
     "meaning": "\"chair\""
   },
   {
-    "thai": "ฉันมีเก้าอี้",
-    "roman": "chan mee kao-ee",
-    "meaning": "\"I have a chair\""
+    "thai": "ผมมีเก้าอี้ครับ",
+    "roman": "phom mee kao-ee khrap",
+    "meaning": "\"I have a chair\" (male speaker)"
   },
   {
-    "thai": "คุณมีเก้าอี้ไหม",
-    "roman": "khun mee kao-ee mai",
-    "meaning": "\"Do you have a chair?\""
+    "thai": "คุณมีเก้าอี้ไหมครับ",
+    "roman": "khun mee kao-ee mai khrap",
+    "meaning": "\"Do you have a chair?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อเก้าอี้",
-    "roman": "chan yak seu kao-ee",
-    "meaning": "\"I want to buy a chair\""
+    "thai": "ผมอยากซื้อเก้าอี้ครับ",
+    "roman": "phom yak seu kao-ee khrap",
+    "meaning": "\"I want to buy a chair\" (male speaker)"
   },
   {
     "thai": "เตียง",
@@ -2885,19 +2885,19 @@
     "meaning": "\"bed\""
   },
   {
-    "thai": "ฉันมีเตียง",
-    "roman": "chan mee tiang",
-    "meaning": "\"I have a bed\""
+    "thai": "ผมมีเตียงครับ",
+    "roman": "phom mee tiang khrap",
+    "meaning": "\"I have a bed\" (male speaker)"
   },
   {
-    "thai": "คุณมีเตียงไหม",
-    "roman": "khun mee tiang mai",
-    "meaning": "\"Do you have a bed?\""
+    "thai": "คุณมีเตียงไหมครับ",
+    "roman": "khun mee tiang mai khrap",
+    "meaning": "\"Do you have a bed?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อเตียง",
-    "roman": "chan yak seu tiang",
-    "meaning": "\"I want to buy a bed\""
+    "thai": "ผมอยากซื้อเตียงครับ",
+    "roman": "phom yak seu tiang khrap",
+    "meaning": "\"I want to buy a bed\" (male speaker)"
   },
   {
     "thai": "ตู้เย็น",
@@ -2905,19 +2905,19 @@
     "meaning": "\"refrigerator\""
   },
   {
-    "thai": "ฉันมีตู้เย็น",
-    "roman": "chan mee too yen",
-    "meaning": "\"I have a refrigerator\""
+    "thai": "ผมมีตู้เย็นครับ",
+    "roman": "phom mee too yen khrap",
+    "meaning": "\"I have a refrigerator\" (male speaker)"
   },
   {
-    "thai": "คุณมีตู้เย็นไหม",
-    "roman": "khun mee too yen mai",
-    "meaning": "\"Do you have a refrigerator?\""
+    "thai": "คุณมีตู้เย็นไหมครับ",
+    "roman": "khun mee too yen mai khrap",
+    "meaning": "\"Do you have a refrigerator?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อตู้เย็น",
-    "roman": "chan yak seu too yen",
-    "meaning": "\"I want to buy a refrigerator\""
+    "thai": "ผมอยากซื้อตู้เย็นครับ",
+    "roman": "phom yak seu too yen khrap",
+    "meaning": "\"I want to buy a refrigerator\" (male speaker)"
   },
   {
     "thai": "โทรทัศน์",
@@ -2925,19 +2925,19 @@
     "meaning": "\"television\""
   },
   {
-    "thai": "ฉันมีโทรทัศน์",
-    "roman": "chan mee thorathat",
-    "meaning": "\"I have a television\""
+    "thai": "ผมมีโทรทัศน์ครับ",
+    "roman": "phom mee thorathat khrap",
+    "meaning": "\"I have a television\" (male speaker)"
   },
   {
-    "thai": "คุณมีโทรทัศน์ไหม",
-    "roman": "khun mee thorathat mai",
-    "meaning": "\"Do you have a television?\""
+    "thai": "คุณมีโทรทัศน์ไหมครับ",
+    "roman": "khun mee thorathat mai khrap",
+    "meaning": "\"Do you have a television?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อโทรทัศน์",
-    "roman": "chan yak seu thorathat",
-    "meaning": "\"I want to buy a television\""
+    "thai": "ผมอยากซื้อโทรทัศน์ครับ",
+    "roman": "phom yak seu thorathat khrap",
+    "meaning": "\"I want to buy a television\" (male speaker)"
   },
   {
     "thai": "คอมพิวเตอร์",
@@ -2945,19 +2945,19 @@
     "meaning": "\"computer\""
   },
   {
-    "thai": "ฉันมีคอมพิวเตอร์",
-    "roman": "chan mee khomphio-ter",
-    "meaning": "\"I have a computer\""
+    "thai": "ผมมีคอมพิวเตอร์ครับ",
+    "roman": "phom mee khomphio-ter khrap",
+    "meaning": "\"I have a computer\" (male speaker)"
   },
   {
-    "thai": "คุณมีคอมพิวเตอร์ไหม",
-    "roman": "khun mee khomphio-ter mai",
-    "meaning": "\"Do you have a computer?\""
+    "thai": "คุณมีคอมพิวเตอร์ไหมครับ",
+    "roman": "khun mee khomphio-ter mai khrap",
+    "meaning": "\"Do you have a computer?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อคอมพิวเตอร์",
-    "roman": "chan yak seu khomphio-ter",
-    "meaning": "\"I want to buy a computer\""
+    "thai": "ผมอยากซื้อคอมพิวเตอร์ครับ",
+    "roman": "phom yak seu khomphio-ter khrap",
+    "meaning": "\"I want to buy a computer\" (male speaker)"
   },
   {
     "thai": "กุญแจ",
@@ -2965,19 +2965,19 @@
     "meaning": "\"key\""
   },
   {
-    "thai": "ฉันมีกุญแจ",
-    "roman": "chan mee kunjae",
-    "meaning": "\"I have a key\""
+    "thai": "ผมมีกุญแจครับ",
+    "roman": "phom mee kunjae khrap",
+    "meaning": "\"I have a key\" (male speaker)"
   },
   {
-    "thai": "คุณมีกุญแจไหม",
-    "roman": "khun mee kunjae mai",
-    "meaning": "\"Do you have a key?\""
+    "thai": "คุณมีกุญแจไหมครับ",
+    "roman": "khun mee kunjae mai khrap",
+    "meaning": "\"Do you have a key?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อกุญแจ",
-    "roman": "chan yak seu kunjae",
-    "meaning": "\"I want to buy a key\""
+    "thai": "ผมอยากซื้อกุญแจครับ",
+    "roman": "phom yak seu kunjae khrap",
+    "meaning": "\"I want to buy a key\" (male speaker)"
   },
   {
     "thai": "ร่ม",
@@ -2985,19 +2985,19 @@
     "meaning": "\"umbrella\""
   },
   {
-    "thai": "ฉันมีร่ม",
-    "roman": "chan mee rom",
-    "meaning": "\"I have a umbrella\""
+    "thai": "ผมมีร่มครับ",
+    "roman": "phom mee rom khrap",
+    "meaning": "\"I have an umbrella\" (male speaker)"
   },
   {
-    "thai": "คุณมีร่มไหม",
-    "roman": "khun mee rom mai",
-    "meaning": "\"Do you have a umbrella?\""
+    "thai": "คุณมีร่มไหมครับ",
+    "roman": "khun mee rom mai khrap",
+    "meaning": "\"Do you have an umbrella?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อร่ม",
-    "roman": "chan yak seu rom",
-    "meaning": "\"I want to buy a umbrella\""
+    "thai": "ผมอยากซื้อร่มครับ",
+    "roman": "phom yak seu rom khrap",
+    "meaning": "\"I want to buy an umbrella\" (male speaker)"
   },
   {
     "thai": "กระดาษ",
@@ -3005,19 +3005,19 @@
     "meaning": "\"paper\""
   },
   {
-    "thai": "ฉันมีกระดาษ",
-    "roman": "chan mee kradat",
-    "meaning": "\"I have a paper\""
+    "thai": "ผมมีกระดาษครับ",
+    "roman": "phom mee kradat khrap",
+    "meaning": "\"I have a paper\" (male speaker)"
   },
   {
-    "thai": "คุณมีกระดาษไหม",
-    "roman": "khun mee kradat mai",
-    "meaning": "\"Do you have a paper?\""
+    "thai": "คุณมีกระดาษไหมครับ",
+    "roman": "khun mee kradat mai khrap",
+    "meaning": "\"Do you have a paper?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อกระดาษ",
-    "roman": "chan yak seu kradat",
-    "meaning": "\"I want to buy a paper\""
+    "thai": "ผมอยากซื้อกระดาษครับ",
+    "roman": "phom yak seu kradat khrap",
+    "meaning": "\"I want to buy a paper\" (male speaker)"
   },
   {
     "thai": "มีด",
@@ -3025,19 +3025,19 @@
     "meaning": "\"knife\""
   },
   {
-    "thai": "ฉันมีมีด",
-    "roman": "chan mee meed",
-    "meaning": "\"I have a knife\""
+    "thai": "ผมมีมีดครับ",
+    "roman": "phom mee meed khrap",
+    "meaning": "\"I have a knife\" (male speaker)"
   },
   {
-    "thai": "คุณมีมีดไหม",
-    "roman": "khun mee meed mai",
-    "meaning": "\"Do you have a knife?\""
+    "thai": "คุณมีมีดไหมครับ",
+    "roman": "khun mee meed mai khrap",
+    "meaning": "\"Do you have a knife?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อมีด",
-    "roman": "chan yak seu meed",
-    "meaning": "\"I want to buy a knife\""
+    "thai": "ผมอยากซื้อมีดครับ",
+    "roman": "phom yak seu meed khrap",
+    "meaning": "\"I want to buy a knife\" (male speaker)"
   },
   {
     "thai": "ช้อน",
@@ -3045,19 +3045,19 @@
     "meaning": "\"spoon\""
   },
   {
-    "thai": "ฉันมีช้อน",
-    "roman": "chan mee chon",
-    "meaning": "\"I have a spoon\""
+    "thai": "ผมมีช้อนครับ",
+    "roman": "phom mee chon khrap",
+    "meaning": "\"I have a spoon\" (male speaker)"
   },
   {
-    "thai": "คุณมีช้อนไหม",
-    "roman": "khun mee chon mai",
-    "meaning": "\"Do you have a spoon?\""
+    "thai": "คุณมีช้อนไหมครับ",
+    "roman": "khun mee chon mai khrap",
+    "meaning": "\"Do you have a spoon?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อช้อน",
-    "roman": "chan yak seu chon",
-    "meaning": "\"I want to buy a spoon\""
+    "thai": "ผมอยากซื้อช้อนครับ",
+    "roman": "phom yak seu chon khrap",
+    "meaning": "\"I want to buy a spoon\" (male speaker)"
   },
   {
     "thai": "ส้อม",
@@ -3065,19 +3065,19 @@
     "meaning": "\"fork\""
   },
   {
-    "thai": "ฉันมีส้อม",
-    "roman": "chan mee som (fork)",
-    "meaning": "\"I have a fork\""
+    "thai": "ผมมีส้อมครับ",
+    "roman": "phom mee som (fork) khrap",
+    "meaning": "\"I have a fork\" (male speaker)"
   },
   {
-    "thai": "คุณมีส้อมไหม",
-    "roman": "khun mee som (fork) mai",
-    "meaning": "\"Do you have a fork?\""
+    "thai": "คุณมีส้อมไหมครับ",
+    "roman": "khun mee som (fork) mai khrap",
+    "meaning": "\"Do you have a fork?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อส้อม",
-    "roman": "chan yak seu som (fork)",
-    "meaning": "\"I want to buy a fork\""
+    "thai": "ผมอยากซื้อส้อมครับ",
+    "roman": "phom yak seu som (fork) khrap",
+    "meaning": "\"I want to buy a fork\" (male speaker)"
   },
   {
     "thai": "จาน",
@@ -3085,19 +3085,19 @@
     "meaning": "\"plate\""
   },
   {
-    "thai": "ฉันมีจาน",
-    "roman": "chan mee jan",
-    "meaning": "\"I have a plate\""
+    "thai": "ผมมีจานครับ",
+    "roman": "phom mee jan khrap",
+    "meaning": "\"I have a plate\" (male speaker)"
   },
   {
-    "thai": "คุณมีจานไหม",
-    "roman": "khun mee jan mai",
-    "meaning": "\"Do you have a plate?\""
+    "thai": "คุณมีจานไหมครับ",
+    "roman": "khun mee jan mai khrap",
+    "meaning": "\"Do you have a plate?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อจาน",
-    "roman": "chan yak seu jan",
-    "meaning": "\"I want to buy a plate\""
+    "thai": "ผมอยากซื้อจานครับ",
+    "roman": "phom yak seu jan khrap",
+    "meaning": "\"I want to buy a plate\" (male speaker)"
   },
   {
     "thai": "แก้ว",
@@ -3105,19 +3105,19 @@
     "meaning": "\"glass/cup\""
   },
   {
-    "thai": "ฉันมีแก้ว",
-    "roman": "chan mee kaeo",
-    "meaning": "\"I have a glass/cup\""
+    "thai": "ผมมีแก้วครับ",
+    "roman": "phom mee kaeo khrap",
+    "meaning": "\"I have a glass/cup\" (male speaker)"
   },
   {
-    "thai": "คุณมีแก้วไหม",
-    "roman": "khun mee kaeo mai",
-    "meaning": "\"Do you have a glass/cup?\""
+    "thai": "คุณมีแก้วไหมครับ",
+    "roman": "khun mee kaeo mai khrap",
+    "meaning": "\"Do you have a glass/cup?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อแก้ว",
-    "roman": "chan yak seu kaeo",
-    "meaning": "\"I want to buy a glass/cup\""
+    "thai": "ผมอยากซื้อแก้วครับ",
+    "roman": "phom yak seu kaeo khrap",
+    "meaning": "\"I want to buy a glass/cup\" (male speaker)"
   },
   {
     "thai": "หมอน",
@@ -3125,19 +3125,19 @@
     "meaning": "\"pillow\""
   },
   {
-    "thai": "ฉันมีหมอน",
-    "roman": "chan mee mon",
-    "meaning": "\"I have a pillow\""
+    "thai": "ผมมีหมอนครับ",
+    "roman": "phom mee mon khrap",
+    "meaning": "\"I have a pillow\" (male speaker)"
   },
   {
-    "thai": "คุณมีหมอนไหม",
-    "roman": "khun mee mon mai",
-    "meaning": "\"Do you have a pillow?\""
+    "thai": "คุณมีหมอนไหมครับ",
+    "roman": "khun mee mon mai khrap",
+    "meaning": "\"Do you have a pillow?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อหมอน",
-    "roman": "chan yak seu mon",
-    "meaning": "\"I want to buy a pillow\""
+    "thai": "ผมอยากซื้อหมอนครับ",
+    "roman": "phom yak seu mon khrap",
+    "meaning": "\"I want to buy a pillow\" (male speaker)"
   },
   {
     "thai": "ผ้าห่ม",
@@ -3145,19 +3145,19 @@
     "meaning": "\"blanket\""
   },
   {
-    "thai": "ฉันมีผ้าห่ม",
-    "roman": "chan mee pha hom",
-    "meaning": "\"I have a blanket\""
+    "thai": "ผมมีผ้าห่มครับ",
+    "roman": "phom mee pha hom khrap",
+    "meaning": "\"I have a blanket\" (male speaker)"
   },
   {
-    "thai": "คุณมีผ้าห่มไหม",
-    "roman": "khun mee pha hom mai",
-    "meaning": "\"Do you have a blanket?\""
+    "thai": "คุณมีผ้าห่มไหมครับ",
+    "roman": "khun mee pha hom mai khrap",
+    "meaning": "\"Do you have a blanket?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อผ้าห่ม",
-    "roman": "chan yak seu pha hom",
-    "meaning": "\"I want to buy a blanket\""
+    "thai": "ผมอยากซื้อผ้าห่มครับ",
+    "roman": "phom yak seu pha hom khrap",
+    "meaning": "\"I want to buy a blanket\" (male speaker)"
   },
   {
     "thai": "กระเป๋าเงิน",
@@ -3165,19 +3165,19 @@
     "meaning": "\"wallet\""
   },
   {
-    "thai": "ฉันมีกระเป๋าเงิน",
-    "roman": "chan mee krapao ngern",
-    "meaning": "\"I have a wallet\""
+    "thai": "ผมมีกระเป๋าเงินครับ",
+    "roman": "phom mee krapao ngern khrap",
+    "meaning": "\"I have a wallet\" (male speaker)"
   },
   {
-    "thai": "คุณมีกระเป๋าเงินไหม",
-    "roman": "khun mee krapao ngern mai",
-    "meaning": "\"Do you have a wallet?\""
+    "thai": "คุณมีกระเป๋าเงินไหมครับ",
+    "roman": "khun mee krapao ngern mai khrap",
+    "meaning": "\"Do you have a wallet?\" (male speaker)"
   },
   {
-    "thai": "ฉันอยากซื้อกระเป๋าเงิน",
-    "roman": "chan yak seu krapao ngern",
-    "meaning": "\"I want to buy a wallet\""
+    "thai": "ผมอยากซื้อกระเป๋าเงินครับ",
+    "roman": "phom yak seu krapao ngern khrap",
+    "meaning": "\"I want to buy a wallet\" (male speaker)"
   },
   {
     "thai": "มีความสุข",
@@ -3185,9 +3185,9 @@
     "meaning": "\"happy\""
   },
   {
-    "thai": "ฉันรู้สึกมีความสุข",
-    "roman": "chan roo-seuk mee khwam suk",
-    "meaning": "\"I feel happy\""
+    "thai": "ผมรู้สึกมีความสุขครับ",
+    "roman": "phom roo-seuk mee khwam suk khrap",
+    "meaning": "\"I feel happy\" (male speaker)"
   },
   {
     "thai": "เศร้า",
@@ -3195,9 +3195,9 @@
     "meaning": "\"sad\""
   },
   {
-    "thai": "ฉันรู้สึกเศร้า",
-    "roman": "chan roo-seuk sao",
-    "meaning": "\"I feel sad\""
+    "thai": "ผมรู้สึกเศร้าครับ",
+    "roman": "phom roo-seuk sao khrap",
+    "meaning": "\"I feel sad\" (male speaker)"
   },
   {
     "thai": "โกรธ",
@@ -3205,9 +3205,9 @@
     "meaning": "\"angry\""
   },
   {
-    "thai": "ฉันรู้สึกโกรธ",
-    "roman": "chan roo-seuk kroht",
-    "meaning": "\"I feel angry\""
+    "thai": "ผมรู้สึกโกรธครับ",
+    "roman": "phom roo-seuk kroht khrap",
+    "meaning": "\"I feel angry\" (male speaker)"
   },
   {
     "thai": "กลัว",
@@ -3215,9 +3215,9 @@
     "meaning": "\"scared\""
   },
   {
-    "thai": "ฉันรู้สึกกลัว",
-    "roman": "chan roo-seuk klua",
-    "meaning": "\"I feel scared\""
+    "thai": "ผมรู้สึกกลัวครับ",
+    "roman": "phom roo-seuk klua khrap",
+    "meaning": "\"I feel scared\" (male speaker)"
   },
   {
     "thai": "ตื่นเต้น",
@@ -3225,9 +3225,9 @@
     "meaning": "\"excited\""
   },
   {
-    "thai": "ฉันรู้สึกตื่นเต้น",
-    "roman": "chan roo-seuk tuen ten",
-    "meaning": "\"I feel excited\""
+    "thai": "ผมรู้สึกตื่นเต้นครับ",
+    "roman": "phom roo-seuk tuen ten khrap",
+    "meaning": "\"I feel excited\" (male speaker)"
   },
   {
     "thai": "เหนื่อย",
@@ -3235,9 +3235,9 @@
     "meaning": "\"tired\""
   },
   {
-    "thai": "ฉันรู้สึกเหนื่อย",
-    "roman": "chan roo-seuk nueay",
-    "meaning": "\"I feel tired\""
+    "thai": "ผมรู้สึกเหนื่อยครับ",
+    "roman": "phom roo-seuk nueay khrap",
+    "meaning": "\"I feel tired\" (male speaker)"
   },
   {
     "thai": "หิว",
@@ -3245,9 +3245,9 @@
     "meaning": "\"hungry\""
   },
   {
-    "thai": "ฉันรู้สึกหิว",
-    "roman": "chan roo-seuk hiu",
-    "meaning": "\"I feel hungry\""
+    "thai": "ผมรู้สึกหิวครับ",
+    "roman": "phom roo-seuk hiu khrap",
+    "meaning": "\"I feel hungry\" (male speaker)"
   },
   {
     "thai": "กระหายน้ำ",
@@ -3255,9 +3255,9 @@
     "meaning": "\"thirsty\""
   },
   {
-    "thai": "ฉันรู้สึกกระหายน้ำ",
-    "roman": "chan roo-seuk krahai nam",
-    "meaning": "\"I feel thirsty\""
+    "thai": "ผมรู้สึกกระหายน้ำครับ",
+    "roman": "phom roo-seuk krahai nam khrap",
+    "meaning": "\"I feel thirsty\" (male speaker)"
   },
   {
     "thai": "ง่วงนอน",
@@ -3265,9 +3265,9 @@
     "meaning": "\"sleepy\""
   },
   {
-    "thai": "ฉันรู้สึกง่วงนอน",
-    "roman": "chan roo-seuk nguang non",
-    "meaning": "\"I feel sleepy\""
+    "thai": "ผมรู้สึกง่วงนอนครับ",
+    "roman": "phom roo-seuk nguang non khrap",
+    "meaning": "\"I feel sleepy\" (male speaker)"
   },
   {
     "thai": "สบายใจ",
@@ -3275,9 +3275,9 @@
     "meaning": "\"relaxed\""
   },
   {
-    "thai": "ฉันรู้สึกสบายใจ",
-    "roman": "chan roo-seuk sabai jai",
-    "meaning": "\"I feel relaxed\""
+    "thai": "ผมรู้สึกสบายใจครับ",
+    "roman": "phom roo-seuk sabai jai khrap",
+    "meaning": "\"I feel relaxed\" (male speaker)"
   },
   {
     "thai": "เครียด",
@@ -3285,9 +3285,9 @@
     "meaning": "\"stressed\""
   },
   {
-    "thai": "ฉันรู้สึกเครียด",
-    "roman": "chan roo-seuk khriat",
-    "meaning": "\"I feel stressed\""
+    "thai": "ผมรู้สึกเครียดครับ",
+    "roman": "phom roo-seuk khriat khrap",
+    "meaning": "\"I feel stressed\" (male speaker)"
   },
   {
     "thai": "ประหลาดใจ",
@@ -3295,9 +3295,9 @@
     "meaning": "\"surprised\""
   },
   {
-    "thai": "ฉันรู้สึกประหลาดใจ",
-    "roman": "chan roo-seuk pralat jai",
-    "meaning": "\"I feel surprised\""
+    "thai": "ผมรู้สึกประหลาดใจครับ",
+    "roman": "phom roo-seuk pralat jai khrap",
+    "meaning": "\"I feel surprised\" (male speaker)"
   },
   {
     "thai": "อิจฉา",
@@ -3305,9 +3305,9 @@
     "meaning": "\"jealous\""
   },
   {
-    "thai": "ฉันรู้สึกอิจฉา",
-    "roman": "chan roo-seuk itcha",
-    "meaning": "\"I feel jealous\""
+    "thai": "ผมรู้สึกอิจฉาครับ",
+    "roman": "phom roo-seuk itcha khrap",
+    "meaning": "\"I feel jealous\" (male speaker)"
   },
   {
     "thai": "เหงา",
@@ -3315,9 +3315,9 @@
     "meaning": "\"lonely\""
   },
   {
-    "thai": "ฉันรู้สึกเหงา",
-    "roman": "chan roo-seuk ngao",
-    "meaning": "\"I feel lonely\""
+    "thai": "ผมรู้สึกเหงาครับ",
+    "roman": "phom roo-seuk ngao khrap",
+    "meaning": "\"I feel lonely\" (male speaker)"
   },
   {
     "thai": "ผิดหวัง",
@@ -3325,9 +3325,9 @@
     "meaning": "\"disappointed\""
   },
   {
-    "thai": "ฉันรู้สึกผิดหวัง",
-    "roman": "chan roo-seuk phit wang",
-    "meaning": "\"I feel disappointed\""
+    "thai": "ผมรู้สึกผิดหวังครับ",
+    "roman": "phom roo-seuk phit wang khrap",
+    "meaning": "\"I feel disappointed\" (male speaker)"
   },
   {
     "thai": "ภูมิใจ",
@@ -3335,9 +3335,9 @@
     "meaning": "\"proud\""
   },
   {
-    "thai": "ฉันรู้สึกภูมิใจ",
-    "roman": "chan roo-seuk phum jai",
-    "meaning": "\"I feel proud\""
+    "thai": "ผมรู้สึกภูมิใจครับ",
+    "roman": "phom roo-seuk phum jai khrap",
+    "meaning": "\"I feel proud\" (male speaker)"
   },
   {
     "thai": "สนุก",
@@ -3345,9 +3345,9 @@
     "meaning": "\"having fun\""
   },
   {
-    "thai": "ฉันรู้สึกสนุก",
-    "roman": "chan roo-seuk sanuk",
-    "meaning": "\"I feel having fun\""
+    "thai": "ผมรู้สึกสนุกครับ",
+    "roman": "phom roo-seuk sanuk khrap",
+    "meaning": "\"I feel having fun\" (male speaker)"
   },
   {
     "thai": "เบื่อ",
@@ -3355,9 +3355,9 @@
     "meaning": "\"bored\""
   },
   {
-    "thai": "ฉันรู้สึกเบื่อ",
-    "roman": "chan roo-seuk buea",
-    "meaning": "\"I feel bored\""
+    "thai": "ผมรู้สึกเบื่อครับ",
+    "roman": "phom roo-seuk buea khrap",
+    "meaning": "\"I feel bored\" (male speaker)"
   },
   {
     "thai": "กังวล",
@@ -3365,9 +3365,9 @@
     "meaning": "\"worried\""
   },
   {
-    "thai": "ฉันรู้สึกกังวล",
-    "roman": "chan roo-seuk kangwon",
-    "meaning": "\"I feel worried\""
+    "thai": "ผมรู้สึกกังวลครับ",
+    "roman": "phom roo-seuk kangwon khrap",
+    "meaning": "\"I feel worried\" (male speaker)"
   },
   {
     "thai": "ตกใจ",
@@ -3375,9 +3375,9 @@
     "meaning": "\"startled\""
   },
   {
-    "thai": "ฉันรู้สึกตกใจ",
-    "roman": "chan roo-seuk tok jai",
-    "meaning": "\"I feel startled\""
+    "thai": "ผมรู้สึกตกใจครับ",
+    "roman": "phom roo-seuk tok jai khrap",
+    "meaning": "\"I feel startled\" (male speaker)"
   },
   {
     "thai": "กิน",
@@ -3385,9 +3385,9 @@
     "meaning": "\"To eat\""
   },
   {
-    "thai": "ฉันอยากกิน",
-    "roman": "chan yak gin",
-    "meaning": "\"I want to eat\""
+    "thai": "ผมอยากกินครับ",
+    "roman": "phom yak gin khrap",
+    "meaning": "\"I want to eat\" (male speaker)"
   },
   {
     "thai": "ดื่ม",
@@ -3395,9 +3395,9 @@
     "meaning": "\"To drink\""
   },
   {
-    "thai": "ฉันอยากดื่ม",
-    "roman": "chan yak duem",
-    "meaning": "\"I want to drink\""
+    "thai": "ผมอยากดื่มครับ",
+    "roman": "phom yak duem khrap",
+    "meaning": "\"I want to drink\" (male speaker)"
   },
   {
     "thai": "ไป",
@@ -3405,9 +3405,9 @@
     "meaning": "\"To go\""
   },
   {
-    "thai": "ฉันอยากไป",
-    "roman": "chan yak pai",
-    "meaning": "\"I want to go\""
+    "thai": "ผมอยากไปครับ",
+    "roman": "phom yak pai khrap",
+    "meaning": "\"I want to go\" (male speaker)"
   },
   {
     "thai": "มา",
@@ -3415,9 +3415,9 @@
     "meaning": "\"To come\""
   },
   {
-    "thai": "ฉันอยากมา",
-    "roman": "chan yak ma (come)",
-    "meaning": "\"I want to come\""
+    "thai": "ผมอยากมาครับ",
+    "roman": "phom yak ma (come) khrap",
+    "meaning": "\"I want to come\" (male speaker)"
   },
   {
     "thai": "นอน",
@@ -3425,9 +3425,9 @@
     "meaning": "\"To sleep\""
   },
   {
-    "thai": "ฉันอยากนอน",
-    "roman": "chan yak non",
-    "meaning": "\"I want to sleep\""
+    "thai": "ผมอยากนอนครับ",
+    "roman": "phom yak non khrap",
+    "meaning": "\"I want to sleep\" (male speaker)"
   },
   {
     "thai": "ตื่น",
@@ -3435,9 +3435,9 @@
     "meaning": "\"To wake up\""
   },
   {
-    "thai": "ฉันอยากตื่น",
-    "roman": "chan yak tuen",
-    "meaning": "\"I want to wake up\""
+    "thai": "ผมอยากตื่นครับ",
+    "roman": "phom yak tuen khrap",
+    "meaning": "\"I want to wake up\" (male speaker)"
   },
   {
     "thai": "เดิน",
@@ -3445,9 +3445,9 @@
     "meaning": "\"To walk\""
   },
   {
-    "thai": "ฉันอยากเดิน",
-    "roman": "chan yak doen",
-    "meaning": "\"I want to walk\""
+    "thai": "ผมอยากเดินครับ",
+    "roman": "phom yak doen khrap",
+    "meaning": "\"I want to walk\" (male speaker)"
   },
   {
     "thai": "วิ่ง",
@@ -3455,9 +3455,9 @@
     "meaning": "\"To run\""
   },
   {
-    "thai": "ฉันอยากวิ่ง",
-    "roman": "chan yak wing",
-    "meaning": "\"I want to run\""
+    "thai": "ผมอยากวิ่งครับ",
+    "roman": "phom yak wing khrap",
+    "meaning": "\"I want to run\" (male speaker)"
   },
   {
     "thai": "นั่ง",
@@ -3465,9 +3465,9 @@
     "meaning": "\"To sit\""
   },
   {
-    "thai": "ฉันอยากนั่ง",
-    "roman": "chan yak nang",
-    "meaning": "\"I want to sit\""
+    "thai": "ผมอยากนั่งครับ",
+    "roman": "phom yak nang khrap",
+    "meaning": "\"I want to sit\" (male speaker)"
   },
   {
     "thai": "ยืน",
@@ -3475,9 +3475,9 @@
     "meaning": "\"To stand\""
   },
   {
-    "thai": "ฉันอยากยืน",
-    "roman": "chan yak yuen",
-    "meaning": "\"I want to stand\""
+    "thai": "ผมอยากยืนครับ",
+    "roman": "phom yak yuen khrap",
+    "meaning": "\"I want to stand\" (male speaker)"
   },
   {
     "thai": "พูด",
@@ -3485,9 +3485,9 @@
     "meaning": "\"To speak\""
   },
   {
-    "thai": "ฉันอยากพูด",
-    "roman": "chan yak phood",
-    "meaning": "\"I want to speak\""
+    "thai": "ผมอยากพูดครับ",
+    "roman": "phom yak phood khrap",
+    "meaning": "\"I want to speak\" (male speaker)"
   },
   {
     "thai": "ฟัง",
@@ -3495,9 +3495,9 @@
     "meaning": "\"To listen\""
   },
   {
-    "thai": "ฉันอยากฟัง",
-    "roman": "chan yak fang",
-    "meaning": "\"I want to listen\""
+    "thai": "ผมอยากฟังครับ",
+    "roman": "phom yak fang khrap",
+    "meaning": "\"I want to listen\" (male speaker)"
   },
   {
     "thai": "อ่าน",
@@ -3505,9 +3505,9 @@
     "meaning": "\"To read\""
   },
   {
-    "thai": "ฉันอยากอ่าน",
-    "roman": "chan yak aan",
-    "meaning": "\"I want to read\""
+    "thai": "ผมอยากอ่านครับ",
+    "roman": "phom yak aan khrap",
+    "meaning": "\"I want to read\" (male speaker)"
   },
   {
     "thai": "เขียน",
@@ -3515,9 +3515,9 @@
     "meaning": "\"To write\""
   },
   {
-    "thai": "ฉันอยากเขียน",
-    "roman": "chan yak khian",
-    "meaning": "\"I want to write\""
+    "thai": "ผมอยากเขียนครับ",
+    "roman": "phom yak khian khrap",
+    "meaning": "\"I want to write\" (male speaker)"
   },
   {
     "thai": "ดู",
@@ -3525,9 +3525,9 @@
     "meaning": "\"To watch\""
   },
   {
-    "thai": "ฉันอยากดู",
-    "roman": "chan yak doo",
-    "meaning": "\"I want to watch\""
+    "thai": "ผมอยากดูครับ",
+    "roman": "phom yak doo khrap",
+    "meaning": "\"I want to watch\" (male speaker)"
   },
   {
     "thai": "เล่น",
@@ -3535,9 +3535,9 @@
     "meaning": "\"To play\""
   },
   {
-    "thai": "ฉันอยากเล่น",
-    "roman": "chan yak len",
-    "meaning": "\"I want to play\""
+    "thai": "ผมอยากเล่นครับ",
+    "roman": "phom yak len khrap",
+    "meaning": "\"I want to play\" (male speaker)"
   },
   {
     "thai": "ทำงาน",
@@ -3545,9 +3545,9 @@
     "meaning": "\"To work\""
   },
   {
-    "thai": "ฉันอยากทำงาน",
-    "roman": "chan yak tham ngan",
-    "meaning": "\"I want to work\""
+    "thai": "ผมอยากทำงานครับ",
+    "roman": "phom yak tham ngan khrap",
+    "meaning": "\"I want to work\" (male speaker)"
   },
   {
     "thai": "เรียน",
@@ -3555,9 +3555,9 @@
     "meaning": "\"To study\""
   },
   {
-    "thai": "ฉันอยากเรียน",
-    "roman": "chan yak rian",
-    "meaning": "\"I want to study\""
+    "thai": "ผมอยากเรียนครับ",
+    "roman": "phom yak rian khrap",
+    "meaning": "\"I want to study\" (male speaker)"
   },
   {
     "thai": "ซื้อ",
@@ -3565,9 +3565,9 @@
     "meaning": "\"To buy\""
   },
   {
-    "thai": "ฉันอยากซื้อ",
-    "roman": "chan yak seu",
-    "meaning": "\"I want to buy\""
+    "thai": "ผมอยากซื้อครับ",
+    "roman": "phom yak seu khrap",
+    "meaning": "\"I want to buy\" (male speaker)"
   },
   {
     "thai": "ขาย",
@@ -3575,9 +3575,9 @@
     "meaning": "\"To sell\""
   },
   {
-    "thai": "ฉันอยากขาย",
-    "roman": "chan yak khai (sell)",
-    "meaning": "\"I want to sell\""
+    "thai": "ผมอยากขายครับ",
+    "roman": "phom yak khai (sell) khrap",
+    "meaning": "\"I want to sell\" (male speaker)"
   },
   {
     "thai": "จ่ายเงิน",
@@ -3585,9 +3585,9 @@
     "meaning": "\"To pay\""
   },
   {
-    "thai": "ฉันอยากจ่ายเงิน",
-    "roman": "chan yak jai ngern",
-    "meaning": "\"I want to pay\""
+    "thai": "ผมอยากจ่ายเงินครับ",
+    "roman": "phom yak jai ngern khrap",
+    "meaning": "\"I want to pay\" (male speaker)"
   },
   {
     "thai": "ทำอาหาร",
@@ -3595,9 +3595,9 @@
     "meaning": "\"To cook\""
   },
   {
-    "thai": "ฉันอยากทำอาหาร",
-    "roman": "chan yak tham ahan",
-    "meaning": "\"I want to cook\""
+    "thai": "ผมอยากทำอาหารครับ",
+    "roman": "phom yak tham ahan khrap",
+    "meaning": "\"I want to cook\" (male speaker)"
   },
   {
     "thai": "ล้าง",
@@ -3605,9 +3605,9 @@
     "meaning": "\"To wash\""
   },
   {
-    "thai": "ฉันอยากล้าง",
-    "roman": "chan yak lang",
-    "meaning": "\"I want to wash\""
+    "thai": "ผมอยากล้างครับ",
+    "roman": "phom yak lang khrap",
+    "meaning": "\"I want to wash\" (male speaker)"
   },
   {
     "thai": "ทำความสะอาด",
@@ -3615,9 +3615,9 @@
     "meaning": "\"To clean\""
   },
   {
-    "thai": "ฉันอยากทำความสะอาด",
-    "roman": "chan yak tham khwam sa-at",
-    "meaning": "\"I want to clean\""
+    "thai": "ผมอยากทำความสะอาดครับ",
+    "roman": "phom yak tham khwam sa-at khrap",
+    "meaning": "\"I want to clean\" (male speaker)"
   },
   {
     "thai": "ขับรถ",
@@ -3625,9 +3625,9 @@
     "meaning": "\"To drive\""
   },
   {
-    "thai": "ฉันอยากขับรถ",
-    "roman": "chan yak khap rot",
-    "meaning": "\"I want to drive\""
+    "thai": "ผมอยากขับรถครับ",
+    "roman": "phom yak khap rot khrap",
+    "meaning": "\"I want to drive\" (male speaker)"
   },
   {
     "thai": "ว่ายน้ำ",
@@ -3635,9 +3635,9 @@
     "meaning": "\"To swim\""
   },
   {
-    "thai": "ฉันอยากว่ายน้ำ",
-    "roman": "chan yak wai nam",
-    "meaning": "\"I want to swim\""
+    "thai": "ผมอยากว่ายน้ำครับ",
+    "roman": "phom yak wai nam khrap",
+    "meaning": "\"I want to swim\" (male speaker)"
   },
   {
     "thai": "ร้องเพลง",
@@ -3645,9 +3645,9 @@
     "meaning": "\"To sing\""
   },
   {
-    "thai": "ฉันอยากร้องเพลง",
-    "roman": "chan yak rong phleng",
-    "meaning": "\"I want to sing\""
+    "thai": "ผมอยากร้องเพลงครับ",
+    "roman": "phom yak rong phleng khrap",
+    "meaning": "\"I want to sing\" (male speaker)"
   },
   {
     "thai": "เต้น",
@@ -3655,9 +3655,9 @@
     "meaning": "\"To dance\""
   },
   {
-    "thai": "ฉันอยากเต้น",
-    "roman": "chan yak ten",
-    "meaning": "\"I want to dance\""
+    "thai": "ผมอยากเต้นครับ",
+    "roman": "phom yak ten khrap",
+    "meaning": "\"I want to dance\" (male speaker)"
   },
   {
     "thai": "หัวเราะ",
@@ -3665,9 +3665,9 @@
     "meaning": "\"To laugh\""
   },
   {
-    "thai": "ฉันอยากหัวเราะ",
-    "roman": "chan yak hua-ro",
-    "meaning": "\"I want to laugh\""
+    "thai": "ผมอยากหัวเราะครับ",
+    "roman": "phom yak hua-ro khrap",
+    "meaning": "\"I want to laugh\" (male speaker)"
   },
   {
     "thai": "ร้องไห้",
@@ -3675,9 +3675,9 @@
     "meaning": "\"To cry\""
   },
   {
-    "thai": "ฉันอยากร้องไห้",
-    "roman": "chan yak rong hai",
-    "meaning": "\"I want to cry\""
+    "thai": "ผมอยากร้องไห้ครับ",
+    "roman": "phom yak rong hai khrap",
+    "meaning": "\"I want to cry\" (male speaker)"
   },
   {
     "thai": "สวัสดีครับ",
@@ -3690,9 +3690,9 @@
     "meaning": "\"Thank you\" (male speaker)"
   },
   {
-    "thai": "สบายดีไหม",
-    "roman": "sabai dee mai",
-    "meaning": "\"How are you?\""
+    "thai": "สบายดีไหมครับ",
+    "roman": "sabai dee mai khrap",
+    "meaning": "\"How are you?\" (male speaker)"
   },
   {
     "thai": "สบายดีครับ",
@@ -3700,9 +3700,9 @@
     "meaning": "\"I'm fine\" (male speaker)"
   },
   {
-    "thai": "ไม่เป็นไร",
-    "roman": "mai pen rai",
-    "meaning": "\"No problem / it's okay\""
+    "thai": "ไม่เป็นไรครับ",
+    "roman": "mai pen rai khrap",
+    "meaning": "\"No problem / it's okay\" (male speaker)"
   },
   {
     "thai": "ขอโทษครับ",
@@ -3710,199 +3710,199 @@
     "meaning": "\"Sorry / excuse me\" (male speaker)"
   },
   {
-    "thai": "ยินดีที่ได้รู้จัก",
-    "roman": "yindee tee dai roo jak",
-    "meaning": "\"Nice to meet you\""
+    "thai": "ยินดีที่ได้รู้จักครับ",
+    "roman": "yindee tee dai roo jak khrap",
+    "meaning": "\"Nice to meet you\" (male speaker)"
   },
   {
-    "thai": "ราคาเท่าไหร่",
-    "roman": "raka tao rai",
-    "meaning": "\"How much does it cost?\""
+    "thai": "ราคาเท่าไหร่ครับ",
+    "roman": "raka tao rai khrap",
+    "meaning": "\"How much does it cost?\" (male speaker)"
   },
   {
-    "thai": "แพงไป",
-    "roman": "phaeng pai",
-    "meaning": "\"That's too expensive\""
+    "thai": "แพงไปครับ",
+    "roman": "phaeng pai khrap",
+    "meaning": "\"That's too expensive\" (male speaker)"
   },
   {
-    "thai": "ลดราคาได้ไหม",
-    "roman": "lot raka dai mai",
-    "meaning": "\"Can you lower the price?\""
+    "thai": "ลดราคาได้ไหมครับ",
+    "roman": "lot raka dai mai khrap",
+    "meaning": "\"Can you lower the price?\" (male speaker)"
   },
   {
-    "thai": "ฉันหิว",
-    "roman": "chan hiu",
-    "meaning": "\"I'm hungry\""
+    "thai": "ผมหิวครับ",
+    "roman": "phom hiu khrap",
+    "meaning": "\"I'm hungry\" (male speaker)"
   },
   {
-    "thai": "ฉันกระหายน้ำ",
-    "roman": "chan krahai nam",
-    "meaning": "\"I'm thirsty\""
+    "thai": "ผมกระหายน้ำครับ",
+    "roman": "phom krahai nam khrap",
+    "meaning": "\"I'm thirsty\" (male speaker)"
   },
   {
-    "thai": "แล้วเจอกัน",
-    "roman": "laeo jer gan",
-    "meaning": "\"See you later\""
+    "thai": "แล้วเจอกันนะครับ",
+    "roman": "laeo jer gan na khrap",
+    "meaning": "\"See you later\" (male speaker)"
   },
   {
-    "thai": "ฝันดี",
-    "roman": "fan dee",
-    "meaning": "\"Sweet dreams / good night\""
+    "thai": "ฝันดีนะครับ",
+    "roman": "fan dee na khrap",
+    "meaning": "\"Sweet dreams / good night\" (male speaker)"
   },
   {
-    "thai": "ราตรีสวัสดิ์",
-    "roman": "ratree sawat",
-    "meaning": "\"Good night\""
+    "thai": "ราตรีสวัสดิ์ครับ",
+    "roman": "ratree sawat khrap",
+    "meaning": "\"Good night\" (male speaker)"
   },
   {
-    "thai": "อรุณสวัสดิ์",
-    "roman": "arun sawat",
-    "meaning": "\"Good morning\""
+    "thai": "อรุณสวัสดิ์ครับ",
+    "roman": "arun sawat khrap",
+    "meaning": "\"Good morning\" (male speaker)"
   },
   {
-    "thai": "สวัสดีตอนบ่าย",
-    "roman": "sawatdee ton bai",
-    "meaning": "\"Good afternoon\""
+    "thai": "สวัสดีตอนบ่ายครับ",
+    "roman": "sawatdee ton bai khrap",
+    "meaning": "\"Good afternoon\" (male speaker)"
   },
   {
-    "thai": "สวัสดีตอนเย็น",
-    "roman": "sawatdee ton yen",
-    "meaning": "\"Good evening\""
+    "thai": "สวัสดีตอนเย็นครับ",
+    "roman": "sawatdee ton yen khrap",
+    "meaning": "\"Good evening\" (male speaker)"
   },
   {
-    "thai": "คุณชื่ออะไร",
-    "roman": "khun cheu arai",
-    "meaning": "\"What is your name?\""
+    "thai": "คุณชื่ออะไรครับ",
+    "roman": "khun cheu arai khrap",
+    "meaning": "\"What is your name?\" (male speaker)"
   },
   {
-    "thai": "ฉันชื่อ...",
-    "roman": "chan cheu...",
-    "meaning": "\"My name is...\""
+    "thai": "ผมชื่อ...ครับ",
+    "roman": "phom cheu... khrap",
+    "meaning": "\"My name is...\" (male speaker)"
   },
   {
-    "thai": "คุณมาจากไหน",
-    "roman": "khun ma jak nai",
-    "meaning": "\"Where are you from?\""
+    "thai": "คุณมาจากไหนครับ",
+    "roman": "khun ma jak nai khrap",
+    "meaning": "\"Where are you from?\" (male speaker)"
   },
   {
-    "thai": "ฉันมาจากอเมริกา",
-    "roman": "chan ma jak amerika",
-    "meaning": "\"I come from America\""
+    "thai": "ผมมาจากอเมริกาครับ",
+    "roman": "phom ma jak amerika khrap",
+    "meaning": "\"I come from America\" (male speaker)"
   },
   {
-    "thai": "พูดภาษาไทยได้ไหม",
-    "roman": "phood phasa thai dai mai",
-    "meaning": "\"Can you speak Thai?\""
+    "thai": "พูดภาษาไทยได้ไหมครับ",
+    "roman": "phood phasa thai dai mai khrap",
+    "meaning": "\"Can you speak Thai?\" (male speaker)"
   },
   {
-    "thai": "พูดภาษาอังกฤษได้ไหม",
-    "roman": "phood phasa angkrit dai mai",
-    "meaning": "\"Can you speak English?\""
+    "thai": "พูดภาษาอังกฤษได้ไหมครับ",
+    "roman": "phood phasa angkrit dai mai khrap",
+    "meaning": "\"Can you speak English?\" (male speaker)"
   },
   {
-    "thai": "ฉันไม่เข้าใจ",
-    "roman": "chan mai khao jai",
-    "meaning": "\"I don't understand\""
+    "thai": "ผมไม่เข้าใจครับ",
+    "roman": "phom mai khao jai khrap",
+    "meaning": "\"I don't understand\" (male speaker)"
   },
   {
-    "thai": "เข้าใจไหม",
-    "roman": "khao jai mai",
-    "meaning": "\"Do you understand?\""
+    "thai": "เข้าใจไหมครับ",
+    "roman": "khao jai mai khrap",
+    "meaning": "\"Do you understand?\" (male speaker)"
   },
   {
-    "thai": "พูดช้าๆ ได้ไหม",
-    "roman": "phood cha-cha dai mai",
-    "meaning": "\"Can you speak slowly?\""
+    "thai": "พูดช้าๆ ได้ไหมครับ",
+    "roman": "phood cha-cha dai mai khrap",
+    "meaning": "\"Can you speak slowly?\" (male speaker)"
   },
   {
-    "thai": "พูดอีกครั้งได้ไหม",
-    "roman": "phood eek khrang dai mai",
-    "meaning": "\"Can you say that again?\""
+    "thai": "พูดอีกครั้งได้ไหมครับ",
+    "roman": "phood eek khrang dai mai khrap",
+    "meaning": "\"Can you say that again?\" (male speaker)"
   },
   {
     "thai": "ช่วยด้วย",
     "roman": "chuay duay",
-    "meaning": "\"Help!\""
+    "meaning": "\"Help!\" (urgent, gender-neutral)"
   },
   {
-    "thai": "ฉันต้องการหมอ",
-    "roman": "chan tongkan mor",
-    "meaning": "\"I need a doctor\""
+    "thai": "ผมต้องการหมอครับ",
+    "roman": "phom tongkan mor khrap",
+    "meaning": "\"I need a doctor\" (male speaker)"
   },
   {
-    "thai": "โทรเรียกตำรวจ",
-    "roman": "tho riak tamruat",
-    "meaning": "\"Call the police\""
+    "thai": "โทรเรียกตำรวจด้วยครับ",
+    "roman": "tho riak tamruat duay khrap",
+    "meaning": "\"Please call the police\" (male speaker)"
   },
   {
-    "thai": "ฉันหลงทาง",
-    "roman": "chan long thang",
-    "meaning": "\"I'm lost\""
+    "thai": "ผมหลงทางครับ",
+    "roman": "phom long thang khrap",
+    "meaning": "\"I'm lost\" (male speaker)"
   },
   {
     "thai": "ระวัง",
     "roman": "rawang",
-    "meaning": "\"Watch out / be careful\""
+    "meaning": "\"Watch out / be careful\" (urgent, gender-neutral)"
   },
   {
     "thai": "ไฟไหม้",
     "roman": "fai mai",
-    "meaning": "\"Fire!\""
+    "meaning": "\"Fire!\" (urgent, gender-neutral)"
   },
   {
-    "thai": "ฉันป่วย",
-    "roman": "chan puay",
-    "meaning": "\"I'm sick\""
+    "thai": "ผมป่วยครับ",
+    "roman": "phom puay khrap",
+    "meaning": "\"I'm sick\" (male speaker)"
   },
   {
-    "thai": "เรียกรถพยาบาล",
-    "roman": "riak rot phayaban",
-    "meaning": "\"Call an ambulance\""
+    "thai": "เรียกรถพยาบาลด้วยครับ",
+    "roman": "riak rot phayaban duay khrap",
+    "meaning": "\"Please call an ambulance\" (male speaker)"
   },
   {
-    "thai": "เลี้ยวซ้าย",
-    "roman": "leo sai",
-    "meaning": "\"Turn left\""
+    "thai": "เลี้ยวซ้ายครับ",
+    "roman": "leo sai khrap",
+    "meaning": "\"Turn left\" (male speaker)"
   },
   {
-    "thai": "เลี้ยวขวา",
-    "roman": "leo khwa",
-    "meaning": "\"Turn right\""
+    "thai": "เลี้ยวขวาครับ",
+    "roman": "leo khwa khrap",
+    "meaning": "\"Turn right\" (male speaker)"
   },
   {
-    "thai": "ตรงไป",
-    "roman": "trong pai",
-    "meaning": "\"Go straight\""
+    "thai": "ตรงไปครับ",
+    "roman": "trong pai khrap",
+    "meaning": "\"Go straight\" (male speaker)"
   },
   {
-    "thai": "หยุดตรงนี้",
-    "roman": "yut trong nee",
-    "meaning": "\"Stop here\""
+    "thai": "หยุดตรงนี้ครับ",
+    "roman": "yut trong nee khrap",
+    "meaning": "\"Stop here\" (male speaker)"
   },
   {
-    "thai": "ไกลไหม",
-    "roman": "klai mai",
-    "meaning": "\"Is it far?\""
+    "thai": "ไกลไหมครับ",
+    "roman": "klai mai khrap",
+    "meaning": "\"Is it far?\" (male speaker)"
   },
   {
-    "thai": "ใกล้ไหม",
-    "roman": "klai mai (near)",
-    "meaning": "\"Is it near?\""
+    "thai": "ใกล้ไหมครับ",
+    "roman": "klai mai khrap (near)",
+    "meaning": "\"Is it near?\" (male speaker)"
   },
   {
-    "thai": "ใช้เวลานานไหม",
-    "roman": "chai wela nan mai",
-    "meaning": "\"Does it take long?\""
+    "thai": "ใช้เวลานานไหมครับ",
+    "roman": "chai wela nan mai khrap",
+    "meaning": "\"Does it take long?\" (male speaker)"
   },
   {
-    "thai": "กี่โมงแล้ว",
-    "roman": "kee mong laeo",
-    "meaning": "\"What time is it?\""
+    "thai": "กี่โมงแล้วครับ",
+    "roman": "kee mong laeo khrap",
+    "meaning": "\"What time is it?\" (male speaker)"
   },
   {
-    "thai": "วันนี้วันที่เท่าไหร่",
-    "roman": "wan nee wan tee tao rai",
-    "meaning": "\"What is the date today?\""
+    "thai": "วันนี้วันที่เท่าไหร่ครับ",
+    "roman": "wan nee wan tee tao rai khrap",
+    "meaning": "\"What is the date today?\" (male speaker)"
   },
   {
     "thai": "เมื่อไหร่",
@@ -3940,414 +3940,414 @@
     "meaning": "\"How many?\""
   },
   {
-    "thai": "ใช่",
-    "roman": "chai",
-    "meaning": "\"Yes\""
+    "thai": "ใช่ครับ",
+    "roman": "chai khrap",
+    "meaning": "\"Yes\" (male speaker)"
   },
   {
-    "thai": "ไม่ใช่",
-    "roman": "mai chai",
-    "meaning": "\"No\""
+    "thai": "ไม่ใช่ครับ",
+    "roman": "mai chai khrap",
+    "meaning": "\"No\" (male speaker)"
   },
   {
-    "thai": "ได้",
-    "roman": "dai",
-    "meaning": "\"Can / okay\""
+    "thai": "ได้ครับ",
+    "roman": "dai khrap",
+    "meaning": "\"Can / okay\" (male speaker)"
   },
   {
-    "thai": "ไม่ได้",
-    "roman": "mai dai",
-    "meaning": "\"Cannot / not okay\""
+    "thai": "ไม่ได้ครับ",
+    "roman": "mai dai khrap",
+    "meaning": "\"Cannot / not okay\" (male speaker)"
   },
   {
-    "thai": "อยากได้",
-    "roman": "yak dai",
-    "meaning": "\"I want (this)\""
+    "thai": "ผมอยากได้ครับ",
+    "roman": "phom yak dai khrap",
+    "meaning": "\"I want (this)\" (male speaker)"
   },
   {
-    "thai": "ไม่อยากได้",
-    "roman": "mai yak dai",
-    "meaning": "\"I don't want (this)\""
+    "thai": "ผมไม่อยากได้ครับ",
+    "roman": "phom mai yak dai khrap",
+    "meaning": "\"I don't want (this)\" (male speaker)"
   },
   {
-    "thai": "รอสักครู่",
-    "roman": "ror sak khru",
-    "meaning": "\"Wait a moment\""
+    "thai": "รอสักครู่ครับ",
+    "roman": "ror sak khru khrap",
+    "meaning": "\"Wait a moment\" (male speaker)"
   },
   {
-    "thai": "รีบหน่อย",
-    "roman": "reep noi",
-    "meaning": "\"Please hurry\""
+    "thai": "รีบหน่อยครับ",
+    "roman": "reep noi khrap",
+    "meaning": "\"Please hurry\" (male speaker)"
   },
   {
-    "thai": "ช้าๆ หน่อย",
-    "roman": "cha-cha noi",
-    "meaning": "\"Slow down please\""
+    "thai": "ช้าๆ หน่อยครับ",
+    "roman": "cha-cha noi khrap",
+    "meaning": "\"Slow down please\" (male speaker)"
   },
   {
-    "thai": "อากาศร้อนมาก",
-    "roman": "akat ron mak",
-    "meaning": "\"The weather is very hot\""
+    "thai": "อากาศร้อนมากครับ",
+    "roman": "akat ron mak khrap",
+    "meaning": "\"The weather is very hot\" (male speaker)"
   },
   {
-    "thai": "อากาศเย็นสบาย",
-    "roman": "akat yen sabai",
-    "meaning": "\"The weather is nicely cool\""
+    "thai": "อากาศเย็นสบายครับ",
+    "roman": "akat yen sabai khrap",
+    "meaning": "\"The weather is nicely cool\" (male speaker)"
   },
   {
-    "thai": "ฝนตก",
-    "roman": "fon tok",
-    "meaning": "\"It's raining\""
+    "thai": "ฝนตกครับ",
+    "roman": "fon tok khrap",
+    "meaning": "\"It's raining\" (male speaker)"
   },
   {
-    "thai": "แดดออก",
-    "roman": "daet ok",
-    "meaning": "\"It's sunny\""
+    "thai": "แดดออกครับ",
+    "roman": "daet ok khrap",
+    "meaning": "\"It's sunny\" (male speaker)"
   },
   {
-    "thai": "มีลมแรง",
-    "roman": "mee lom raeng",
-    "meaning": "\"It's windy\""
+    "thai": "มีลมแรงครับ",
+    "roman": "mee lom raeng khrap",
+    "meaning": "\"It's windy\" (male speaker)"
   },
   {
-    "thai": "วันนี้อากาศเป็นอย่างไร",
-    "roman": "wan nee akat pen yang rai",
-    "meaning": "\"What's the weather like today?\""
+    "thai": "วันนี้อากาศเป็นอย่างไรครับ",
+    "roman": "wan nee akat pen yang rai khrap",
+    "meaning": "\"What's the weather like today?\" (male speaker)"
   },
   {
-    "thai": "ยินดีต้อนรับ",
-    "roman": "yindee tonrap",
-    "meaning": "\"Welcome\""
+    "thai": "ยินดีต้อนรับครับ",
+    "roman": "yindee tonrap khrap",
+    "meaning": "\"Welcome\" (male speaker)"
   },
   {
-    "thai": "เชิญนั่ง",
-    "roman": "choen nang",
-    "meaning": "\"Please sit / have a seat\""
+    "thai": "เชิญนั่งครับ",
+    "roman": "choen nang khrap",
+    "meaning": "\"Please sit / have a seat\" (male speaker)"
   },
   {
-    "thai": "เชิญทานได้เลย",
-    "roman": "choen than dai loei",
-    "meaning": "\"Please go ahead and eat\""
+    "thai": "เชิญทานได้เลยครับ",
+    "roman": "choen than dai loei khrap",
+    "meaning": "\"Please go ahead and eat\" (male speaker)"
   },
   {
-    "thai": "อร่อยมาก",
-    "roman": "aroi mak",
-    "meaning": "\"Very delicious\""
+    "thai": "อร่อยมากครับ",
+    "roman": "aroi mak khrap",
+    "meaning": "\"Very delicious\" (male speaker)"
   },
   {
-    "thai": "อิ่มแล้ว",
-    "roman": "im laeo",
-    "meaning": "\"I'm full\""
+    "thai": "ผมอิ่มแล้วครับ",
+    "roman": "phom im laeo khrap",
+    "meaning": "\"I'm full\" (male speaker)"
   },
   {
-    "thai": "ขอเมนูหน่อย",
-    "roman": "kho menu noi",
-    "meaning": "\"May I have the menu, please?\""
+    "thai": "ขอเมนูหน่อยครับ",
+    "roman": "kho menu noi khrap",
+    "meaning": "\"May I have the menu, please?\" (male speaker)"
   },
   {
-    "thai": "เช็คบิลด้วย",
-    "roman": "chek bin duay",
-    "meaning": "\"Check, please\""
+    "thai": "เช็คบิลด้วยครับ",
+    "roman": "chek bin duay khrap",
+    "meaning": "\"Check, please\" (male speaker)"
   },
   {
-    "thai": "ขอน้ำเปล่าแก้วนึง",
-    "roman": "kho nam plao kaeo nueng",
-    "meaning": "\"One glass of water, please\""
+    "thai": "ขอน้ำเปล่าแก้วนึงครับ",
+    "roman": "kho nam plao kaeo nueng khrap",
+    "meaning": "\"One glass of water, please\" (male speaker)"
   },
   {
-    "thai": "เผ็ดไหม",
-    "roman": "phet mai",
-    "meaning": "\"Is it spicy?\""
+    "thai": "เผ็ดไหมครับ",
+    "roman": "phet mai khrap",
+    "meaning": "\"Is it spicy?\" (male speaker)"
   },
   {
-    "thai": "ไม่เผ็ดนะ",
-    "roman": "mai phet na",
-    "meaning": "\"Not spicy, please\""
+    "thai": "ไม่เผ็ดนะครับ",
+    "roman": "mai phet na khrap",
+    "meaning": "\"Not spicy, please\" (male speaker)"
   },
   {
-    "thai": "ขอไม่ใส่ผัก",
-    "roman": "kho mai sai phak",
-    "meaning": "\"No vegetables, please\""
+    "thai": "ขอไม่ใส่ผักครับ",
+    "roman": "kho mai sai phak khrap",
+    "meaning": "\"No vegetables, please\" (male speaker)"
   },
   {
-    "thai": "มีห้องว่างไหม",
-    "roman": "mee hong wang mai",
-    "meaning": "\"Do you have a room available?\""
+    "thai": "มีห้องว่างไหมครับ",
+    "roman": "mee hong wang mai khrap",
+    "meaning": "\"Do you have a room available?\" (male speaker)"
   },
   {
-    "thai": "จองห้องพัก",
-    "roman": "jong hong phak",
-    "meaning": "\"Book a room\""
+    "thai": "จองห้องพักครับ",
+    "roman": "jong hong phak khrap",
+    "meaning": "\"I'd like to book a room\" (male speaker)"
   },
   {
-    "thai": "เช็คอินกี่โมง",
-    "roman": "chek-in kee mong",
-    "meaning": "\"What time is check-in?\""
+    "thai": "เช็คอินกี่โมงครับ",
+    "roman": "chek-in kee mong khrap",
+    "meaning": "\"What time is check-in?\" (male speaker)"
   },
   {
-    "thai": "เช็คเอาท์กี่โมง",
-    "roman": "chek-aut kee mong",
-    "meaning": "\"What time is check-out?\""
+    "thai": "เช็คเอาท์กี่โมงครับ",
+    "roman": "chek-aut kee mong khrap",
+    "meaning": "\"What time is check-out?\" (male speaker)"
   },
   {
-    "thai": "ตั๋วเที่ยวเดียว",
-    "roman": "tua tiao diao",
-    "meaning": "\"One-way ticket\""
+    "thai": "ขอตั๋วเที่ยวเดียวครับ",
+    "roman": "kho tua tiao diao khrap",
+    "meaning": "\"One-way ticket, please\" (male speaker)"
   },
   {
-    "thai": "ตั๋วไปกลับ",
-    "roman": "tua pai klap",
-    "meaning": "\"Round-trip ticket\""
+    "thai": "ขอตั๋วไปกลับครับ",
+    "roman": "kho tua pai klap khrap",
+    "meaning": "\"Round-trip ticket, please\" (male speaker)"
   },
   {
-    "thai": "เครื่องบินออกกี่โมง",
-    "roman": "khrueang bin ok kee mong",
-    "meaning": "\"What time does the flight depart?\""
+    "thai": "เครื่องบินออกกี่โมงครับ",
+    "roman": "khrueang bin ok kee mong khrap",
+    "meaning": "\"What time does the flight depart?\" (male speaker)"
   },
   {
-    "thai": "สนามบินอยู่ไกลไหม",
-    "roman": "sanam bin yoo klai mai",
-    "meaning": "\"Is the airport far?\""
+    "thai": "สนามบินอยู่ไกลไหมครับ",
+    "roman": "sanam bin yoo klai mai khrap",
+    "meaning": "\"Is the airport far?\" (male speaker)"
   },
   {
-    "thai": "เรียกแท็กซี่ให้หน่อย",
-    "roman": "riak taxi hai noi",
-    "meaning": "\"Please call a taxi for me\""
+    "thai": "เรียกแท็กซี่ให้หน่อยครับ",
+    "roman": "riak taxi hai noi khrap",
+    "meaning": "\"Please call a taxi for me\" (male speaker)"
   },
   {
-    "thai": "ไปสนามบินเท่าไหร่",
-    "roman": "pai sanam bin tao rai",
-    "meaning": "\"How much to the airport?\""
+    "thai": "ไปสนามบินเท่าไหร่ครับ",
+    "roman": "pai sanam bin tao rai khrap",
+    "meaning": "\"How much to the airport?\" (male speaker)"
   },
   {
-    "thai": "จอดตรงนี้ได้ไหม",
-    "roman": "jot trong nee dai mai",
-    "meaning": "\"Can you stop here?\""
+    "thai": "จอดตรงนี้ได้ไหมครับ",
+    "roman": "jot trong nee dai mai khrap",
+    "meaning": "\"Can you stop here?\" (male speaker)"
   },
   {
-    "thai": "ขอบคุณสำหรับความช่วยเหลือ",
-    "roman": "khop khun samrap khwam chuay-luea",
-    "meaning": "\"Thank you for your help\""
+    "thai": "ขอบคุณสำหรับความช่วยเหลือครับ",
+    "roman": "khop khun samrap khwam chuay-luea khrap",
+    "meaning": "\"Thank you for your help\" (male speaker)"
   },
   {
-    "thai": "ยินดีด้วย",
-    "roman": "yindee duay",
-    "meaning": "\"Congratulations\""
+    "thai": "ยินดีด้วยครับ",
+    "roman": "yindee duay khrap",
+    "meaning": "\"Congratulations\" (male speaker)"
   },
   {
-    "thai": "สุขสันต์วันเกิด",
-    "roman": "suk san wan koet",
-    "meaning": "\"Happy birthday\""
+    "thai": "สุขสันต์วันเกิดครับ",
+    "roman": "suk san wan koet khrap",
+    "meaning": "\"Happy birthday\" (male speaker)"
   },
   {
-    "thai": "สวัสดีปีใหม่",
-    "roman": "sawatdee pee mai",
-    "meaning": "\"Happy New Year\""
+    "thai": "สวัสดีปีใหม่ครับ",
+    "roman": "sawatdee pee mai khrap",
+    "meaning": "\"Happy New Year\" (male speaker)"
   },
   {
-    "thai": "โชคดี",
-    "roman": "chok dee",
-    "meaning": "\"Good luck\""
+    "thai": "โชคดีนะครับ",
+    "roman": "chok dee na khrap",
+    "meaning": "\"Good luck\" (male speaker)"
   },
   {
-    "thai": "เดินทางปลอดภัย",
-    "roman": "doen thang plot phai",
-    "meaning": "\"Safe travels\""
+    "thai": "เดินทางปลอดภัยนะครับ",
+    "roman": "doen thang plot phai na khrap",
+    "meaning": "\"Safe travels\" (male speaker)"
   },
   {
-    "thai": "รักษาสุขภาพด้วย",
-    "roman": "raksa sukkhaphap duay",
-    "meaning": "\"Take care of your health\""
+    "thai": "รักษาสุขภาพด้วยนะครับ",
+    "roman": "raksa sukkhaphap duay na khrap",
+    "meaning": "\"Take care of your health\" (male speaker)"
   },
   {
-    "thai": "คิดถึงนะ",
-    "roman": "khit theung na",
-    "meaning": "\"I miss you\""
+    "thai": "คิดถึงนะครับ",
+    "roman": "khit theung na khrap",
+    "meaning": "\"I miss you\" (male speaker)"
   },
   {
-    "thai": "รักนะ",
-    "roman": "rak na",
-    "meaning": "\"Love you\""
+    "thai": "รักนะครับ",
+    "roman": "rak na khrap",
+    "meaning": "\"Love you\" (male speaker)"
   },
   {
-    "thai": "ดีใจที่ได้เจอ",
-    "roman": "dee jai tee dai jer",
-    "meaning": "\"Glad to see you\""
+    "thai": "ดีใจที่ได้เจอครับ",
+    "roman": "dee jai tee dai jer khrap",
+    "meaning": "\"Glad to see you\" (male speaker)"
   },
   {
-    "thai": "นานแล้วที่ไม่ได้เจอกัน",
-    "roman": "nan laeo tee mai dai jer gan",
-    "meaning": "\"Long time no see\""
+    "thai": "นานแล้วที่ไม่ได้เจอกันนะครับ",
+    "roman": "nan laeo tee mai dai jer gan na khrap",
+    "meaning": "\"Long time no see\" (male speaker)"
   },
   {
-    "thai": "พรุ่งนี้เจอกันใหม่",
-    "roman": "phrung-nee jer gan mai",
-    "meaning": "\"See you again tomorrow\""
+    "thai": "พรุ่งนี้เจอกันใหม่นะครับ",
+    "roman": "phrung-nee jer gan mai na khrap",
+    "meaning": "\"See you again tomorrow\" (male speaker)"
   },
   {
-    "thai": "วันนี้เหนื่อยมาก",
-    "roman": "wan nee nueay mak",
-    "meaning": "\"Today was very tiring\""
+    "thai": "วันนี้ผมเหนื่อยมากครับ",
+    "roman": "wan-nee phom nueay mak khrap",
+    "meaning": "\"Today was very tiring\" (male speaker)"
   },
   {
-    "thai": "พักผ่อนให้เพียงพอ",
-    "roman": "phak phon hai piang phor",
-    "meaning": "\"Get enough rest\""
+    "thai": "พักผ่อนให้เพียงพอนะครับ",
+    "roman": "phak phon hai piang phor na khrap",
+    "meaning": "\"Get enough rest\" (male speaker)"
   },
   {
-    "thai": "อย่ากังวลไปเลย",
-    "roman": "ya kangwon pai loei",
-    "meaning": "\"Don't worry about it\""
+    "thai": "อย่ากังวลไปเลยนะครับ",
+    "roman": "ya kangwon pai loei na khrap",
+    "meaning": "\"Don't worry about it\" (male speaker)"
   },
   {
-    "thai": "ทุกอย่างจะเรียบร้อย",
-    "roman": "thuk yang ja riap-roi",
-    "meaning": "\"Everything will be fine\""
+    "thai": "ทุกอย่างจะเรียบร้อยครับ",
+    "roman": "thuk yang ja riap-roi khrap",
+    "meaning": "\"Everything will be fine\" (male speaker)"
   },
   {
-    "thai": "สู้ๆ นะ",
-    "roman": "soo-soo na",
-    "meaning": "\"You can do it / fight on\""
+    "thai": "สู้ๆ นะครับ",
+    "roman": "soo-soo na khrap",
+    "meaning": "\"You can do it / fight on\" (male speaker)"
   },
   {
-    "thai": "เก่งมาก",
-    "roman": "keng mak",
-    "meaning": "\"Very well done\""
+    "thai": "เก่งมากครับ",
+    "roman": "keng mak khrap",
+    "meaning": "\"Very well done\" (male speaker)"
   },
   {
-    "thai": "ทำได้ดีมาก",
-    "roman": "tham dai dee mak",
-    "meaning": "\"You did really well\""
+    "thai": "ทำได้ดีมากครับ",
+    "roman": "tham dai dee mak khrap",
+    "meaning": "\"You did really well\" (male speaker)"
   },
   {
-    "thai": "ขอให้โชคดีในการสอบ",
-    "roman": "kho hai chok dee nai kan sop",
-    "meaning": "\"Good luck on your exam\""
+    "thai": "ขอให้โชคดีในการสอบนะครับ",
+    "roman": "kho hai chok dee nai kan sop na khrap",
+    "meaning": "\"Good luck on your exam\" (male speaker)"
   },
   {
-    "thai": "วันหยุดสุดสัปดาห์นี้ทำอะไร",
-    "roman": "wan yut sut sapda nee tham arai",
-    "meaning": "\"What are you doing this weekend?\""
+    "thai": "วันหยุดสุดสัปดาห์นี้ทำอะไรครับ",
+    "roman": "wan yut sut sapda nee tham arai khrap",
+    "meaning": "\"What are you doing this weekend?\" (male speaker)"
   },
   {
-    "thai": "ไปเที่ยวกันไหม",
-    "roman": "pai tiao gan mai",
-    "meaning": "\"Shall we go out together?\""
+    "thai": "ไปเที่ยวกันไหมครับ",
+    "roman": "pai tiao gan mai khrap",
+    "meaning": "\"Shall we go out together?\" (male speaker)"
   },
   {
-    "thai": "นัดกี่โมง",
-    "roman": "nat kee mong",
-    "meaning": "\"What time is the appointment?\""
+    "thai": "นัดกี่โมงครับ",
+    "roman": "nat kee mong khrap",
+    "meaning": "\"What time is the appointment?\" (male speaker)"
   },
   {
-    "thai": "มาสายนิดหน่อย",
-    "roman": "ma sai nit noi",
-    "meaning": "\"I'll be a little late\""
+    "thai": "ผมมาสายนิดหน่อยครับ",
+    "roman": "phom ma sai nit noi khrap",
+    "meaning": "\"I'll be a little late\" (male speaker)"
   },
   {
-    "thai": "รอฉันแป๊บนึง",
-    "roman": "ror chan paep nueng",
-    "meaning": "\"Wait for me a moment\""
+    "thai": "รอผมแป๊บนึงครับ",
+    "roman": "ror phom paep nueng khrap",
+    "meaning": "\"Wait for me a moment\" (male speaker)"
   },
   {
-    "thai": "เดี๋ยวมา",
-    "roman": "diao ma",
-    "meaning": "\"I'll be right back\""
+    "thai": "เดี๋ยวมาครับ",
+    "roman": "diao ma khrap",
+    "meaning": "\"I'll be right back\" (male speaker)"
   },
   {
-    "thai": "ไปกันเถอะ",
-    "roman": "pai gan thoe",
-    "meaning": "\"Let's go\""
+    "thai": "ไปกันเถอะครับ",
+    "roman": "pai gan thoe khrap",
+    "meaning": "\"Let's go\" (male speaker)"
   },
   {
-    "thai": "หยุดก่อน",
-    "roman": "yut kon",
-    "meaning": "\"Stop for a moment\""
+    "thai": "หยุดก่อนครับ",
+    "roman": "yut kon khrap",
+    "meaning": "\"Stop for a moment\" (male speaker)"
   },
   {
-    "thai": "อย่าลืมนะ",
-    "roman": "ya luem na",
-    "meaning": "\"Don't forget\""
+    "thai": "อย่าลืมนะครับ",
+    "roman": "ya luem na khrap",
+    "meaning": "\"Don't forget\" (male speaker)"
   },
   {
-    "thai": "จำได้ไหม",
-    "roman": "jam dai mai",
-    "meaning": "\"Do you remember?\""
+    "thai": "จำได้ไหมครับ",
+    "roman": "jam dai mai khrap",
+    "meaning": "\"Do you remember?\" (male speaker)"
   },
   {
-    "thai": "ฉันลืมแล้ว",
-    "roman": "chan luem laeo",
-    "meaning": "\"I forgot\""
+    "thai": "ผมลืมแล้วครับ",
+    "roman": "phom luem laeo khrap",
+    "meaning": "\"I forgot\" (male speaker)"
   },
   {
-    "thai": "ขอคิดดูก่อน",
-    "roman": "kho khit doo kon",
-    "meaning": "\"Let me think about it\""
+    "thai": "ขอคิดดูก่อนครับ",
+    "roman": "kho khit doo kon khrap",
+    "meaning": "\"Let me think about it\" (male speaker)"
   },
   {
-    "thai": "แล้วแต่คุณ",
-    "roman": "laeo tae khun",
-    "meaning": "\"It's up to you\""
+    "thai": "แล้วแต่คุณครับ",
+    "roman": "laeo tae khun khrap",
+    "meaning": "\"It's up to you\" (male speaker)"
   },
   {
-    "thai": "ตามสบาย",
-    "roman": "tam sabai",
-    "meaning": "\"Make yourself comfortable / as you like\""
+    "thai": "ตามสบายครับ",
+    "roman": "tam sabai khrap",
+    "meaning": "\"Make yourself comfortable / as you like\" (male speaker)"
   },
   {
-    "thai": "ไม่เป็นไรจริงๆ",
-    "roman": "mai pen rai jing-jing",
-    "meaning": "\"It's really okay\""
+    "thai": "ไม่เป็นไรจริงๆ ครับ",
+    "roman": "mai pen rai jing-jing khrap",
+    "meaning": "\"It's really okay\" (male speaker)"
   },
   {
-    "thai": "ขอบใจนะ",
-    "roman": "khop jai na",
-    "meaning": "\"Thanks\" (casual)"
+    "thai": "ขอบใจนะครับ",
+    "roman": "khop jai na khrap",
+    "meaning": "\"Thanks\" (casual, male speaker)"
   },
   {
-    "thai": "เก็บเงินทอนไว้",
-    "roman": "kep ngern thon wai",
-    "meaning": "\"Keep the change\""
+    "thai": "เก็บเงินทอนไว้ครับ",
+    "roman": "kep ngern thon wai khrap",
+    "meaning": "\"Keep the change\" (male speaker)"
   },
   {
-    "thai": "รับบัตรเครดิตไหม",
-    "roman": "rap bat khredit mai",
-    "meaning": "\"Do you accept credit cards?\""
+    "thai": "รับบัตรเครดิตไหมครับ",
+    "roman": "rap bat khredit mai khrap",
+    "meaning": "\"Do you accept credit cards?\" (male speaker)"
   },
   {
-    "thai": "มีตู้เอทีเอ็มไหม",
-    "roman": "mee too atm mai",
-    "meaning": "\"Is there an ATM?\""
+    "thai": "มีตู้เอทีเอ็มไหมครับ",
+    "roman": "mee too atm mai khrap",
+    "meaning": "\"Is there an ATM?\" (male speaker)"
   },
   {
-    "thai": "แลกเงินได้ที่ไหน",
-    "roman": "laek ngern dai tee nai",
-    "meaning": "\"Where can I exchange money?\""
+    "thai": "แลกเงินได้ที่ไหนครับ",
+    "roman": "laek ngern dai tee nai khrap",
+    "meaning": "\"Where can I exchange money?\" (male speaker)"
   },
   {
-    "thai": "อินเทอร์เน็ตใช้ได้ไหม",
-    "roman": "internet chai dai mai",
-    "meaning": "\"Is the internet working?\""
+    "thai": "อินเทอร์เน็ตใช้ได้ไหมครับ",
+    "roman": "internet chai dai mai khrap",
+    "meaning": "\"Is the internet working?\" (male speaker)"
   },
   {
-    "thai": "มีไวไฟไหม",
-    "roman": "mee wifi mai",
-    "meaning": "\"Is there WiFi?\""
+    "thai": "มีไวไฟไหมครับ",
+    "roman": "mee wifi mai khrap",
+    "meaning": "\"Is there WiFi?\" (male speaker)"
   },
   {
-    "thai": "รหัสผ่านคืออะไร",
-    "roman": "rahat phan keu arai",
-    "meaning": "\"What is the password?\""
+    "thai": "รหัสผ่านคืออะไรครับ",
+    "roman": "rahat phan keu arai khrap",
+    "meaning": "\"What is the password?\" (male speaker)"
   },
   {
-    "thai": "แบตเตอรี่หมด",
-    "roman": "batteri mot",
-    "meaning": "\"The battery is dead\""
+    "thai": "แบตเตอรี่หมดครับ",
+    "roman": "batteri mot khrap",
+    "meaning": "\"The battery is dead\" (male speaker)"
   },
   {
-    "thai": "ชาร์จโทรศัพท์ได้ไหม",
-    "roman": "chat thorasap dai mai",
-    "meaning": "\"Can I charge my phone?\""
+    "thai": "ชาร์จโทรศัพท์ได้ไหมครับ",
+    "roman": "chat thorasap dai mai khrap",
+    "meaning": "\"Can I charge my phone?\" (male speaker)"
   },
   {
     "thai": "รถสีแดง",
@@ -4980,23 +4980,23 @@
     "meaning": "\"white umbrella\""
   },
   {
-    "thai": "ผมชื่อ...",
-    "roman": "phom cheu...",
-    "meaning": "\"My name is...\" (male speaker)"
+    "thai": "ร่มสีชมพู",
+    "roman": "rom see chomphoo",
+    "meaning": "\"pink umbrella\""
   },
   {
-    "thai": "ผมสบายดีครับ",
-    "roman": "phom sabai dee khrap",
-    "meaning": "\"I'm fine\" (male speaker)"
+    "thai": "ร่มสีม่วง",
+    "roman": "rom see muang",
+    "meaning": "\"purple umbrella\""
   },
   {
-    "thai": "ผมหิวครับ",
-    "roman": "phom hiu khrap",
-    "meaning": "\"I'm hungry\" (male speaker)"
+    "thai": "ร่มสีส้ม",
+    "roman": "rom see som",
+    "meaning": "\"orange umbrella\""
   },
   {
-    "thai": "ผมขอโทษครับ",
-    "roman": "phom kho thot khrap",
-    "meaning": "\"I'm sorry\" (male speaker)"
+    "thai": "ร่มสีน้ำตาล",
+    "roman": "rom see namtan",
+    "meaning": "\"brown umbrella\""
   }
 ]
